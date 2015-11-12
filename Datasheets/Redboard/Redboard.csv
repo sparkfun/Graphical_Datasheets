@@ -1,0 +1,52 @@
+Name,Power,GND,Control,Arduino,Port,ADC ,PWM,Serial,Ext Interrupt,PC Interrupt,Misc,Misc2,1
+Right,,,,,,,,,,,,,1
+SCL,,,,A5/D19,PC5,ADC5,,SCL,,PCINT13,,,1
+SDA,,,,A4/D18,PC4,ADC4,,SDA,,PCINT12,,,1
+AREF,,,,,,AREF,,,,,,,1
+GND,,GND,,,,,,,,,,,1
+13,,,,D13,PB5,,,SCK,,PCINT5,LED,,1
+12,,,,D12,PB4,,,MISO,,PCINT4,,,1
+11,,,,D11,PB3,,8-bit,MOSI,,PCINT3,OC2A,,1
+10,,,,D10,PCB2,,8-bit,SS,,PCINT2,OC1B,,1
+9,,,,D9,PB1,,8-bit,,,PCINT1 ,OC1A,,1
+8,,,,D8,PB0,,,,,PCINT0,ICP1,CLKO,1
+Right,,,,,,,,,,,,,1
+7,,,,D7,PD7,,,,,PCINT23,IN1,,1
+6,,,,D6,PD6,,8-bit,,,PCINT22,OC0A,AIN0,1
+5,,,,D5,PD5,,8-bit,,,PCINT21,OC0B,T1,1
+4,,,,D4,PD4,,,,,PCINT20,T0,XCK,1
+3,,,,D3,PD3,,8-bit,,INT1,PCINT19,OC2B,,1
+2,,,,D2,PD2,,,,INT0,PCINT18,,,1
+TX0>1,,,,D1 ,PD1,,,TXD,,PCINT17,,,1
+RX<-0,,,,D0,PD0,,,RXD,,PCINT16,,,1
+Left,,,,,,,,,,,,,1
+   ,,,NC,,,,,,,,,,1
+IOREF,IOREF,,,,,,,,,,,,1
+RST,,,Reset,,PC6,,,,,PCINT14,,,1
+3.3V,3.3V,,,,,,,,,,,,1
+5V,5V,,,,,,,,,,,,1
+GND,,GND,,,,,,,,,,,1
+GND,,GND,,,,,,,,,,,1
+Vin,Vin,,,,,,,,,,,,1
+Left,,,,,,,,,,,,,1
+A0,,,,A0/D14,PC0,ADC0,,,,PCINT8,,,1
+A1,,,,A1/D15,PC1,ADC1,,,,PCINT9,,,1
+A2,,,,A2/D16,PC2,ADC2,,,,PCINT10,,,1
+A3,,,,A3/D17,PC3,ADC3,,,,PCINT11,,,1
+A4,,,,A4/D18,PC4,ADC4,,SDA,,PCINT12,,,1
+A5,,,,A5/D19,PC5,ADC5,,SCL,,PCINT13,,,1
+Text,,,,,,,,,,,,,
+Power,VIN:7V-15V,VCC:5V,Maximum current: 800mA on 5V line, 150mA on 3.3V line,Absolute Maximum Current for Chip: 200mA,Absolute Maximum Current per pin: 40mA (recommended 20mA),,,,,,,,
+LEDs,Power: Red,User (D13): Blue,RX: Yellow,TX: Red,,,,,,,,,
+MiniB USB,,,,,,,,,,,,,
+Reset Button,,,,,,,,,,,,,
+ISP header,,,,,,,,,,,,,
+Redboard (Dev-12757),Programmed with Arduino (Uno),16MHz,,,,,,,,,,,
+Extras,,,,,,,,,,,,,
+ATMega328,,,,,,,,,,,,,
+ISP,,,,,,,,,,,,,
+MiniB,,,,,,,,,,,,,
+Extras,,,,,,,,,,,,,
+ATMega328,Logo,Legend,,,,,,,,,,,
+ISP,miniB,,,,,,,,,,,,
+EOF,,,,,,,,,,,,,
