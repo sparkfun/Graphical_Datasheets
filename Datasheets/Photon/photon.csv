@@ -1,0 +1,32 @@
+Name,Power,GND,Control,ADC,I2C/Wire,CAN ,DAC,Serial,TIM,I2C,JTAG,SPI,1
+white, red, black, yellow, green, blue, darkmagenta, yellow, grey, purple, orange, slategray, cadetblue,1
+Right,,,,,,,,,,,,,1
+3V3,3V3,,,,,,,,,,,,1
+RST,,,RST,,,,,,,,,,1
+VBAT,VBAT,,,,,,,,,,,,1
+GND,,GND,,,,,,,,,,,1
+D7,,,,,,,,,,,JTAG_TMS,,1
+D6,,,,,,,,,,,JTAG_TCK,,1
+D5,,,,,,,,,,I2S_WS,JTAG_TDI,SPI3_SS,1
+D4,,,,,,,,,,I2S_SCK,JTAG_TDO,SPI3_SCK,1
+D3,,,,,,,,,TIM3_CH1,,JTAG_TRST,SPI3_MISO,1
+D2,,,,,,CAN2_RX,,,TIM3_CH2,,,SPI3_MOSI,1
+D1,,,,,SCL,CAN2_TX,,,TIM4_CH1,,,,1
+D0,,,,,SDA,,,,TIM4_CH2,,,,1
+Left,,,,,,,,,,,,,1
+VIN,VIN,,,,,,,,,,,,1
+GND,,GND,,,,,,,,,,,1
+TX,,,,,,,,UART1_TX,TIM1_CH2,,,,1
+RX,,,,,,,,UART1_RX,TIM1_CH3,,,,1
+WKP,,,,ADC0,,,,,TIM5_CH1,,,,1
+DAC,,,,ADC4,,,DAC1,,,,,,1
+A5,,,,ADC7,,,,,TIM3_CH2,,,SPI1_MOSI,1
+A4,,,,ADC6,,,,,TIM3_CH1,,,SPI1_MISO,1
+A3,,,,ADC5,,,DAC2,,,,,SPI1_SCK,1
+A2,,,,ADC12,,,,,,,,SPI1_SS,1
+A1,,,,ADC13,,,,,,,,,1
+A0,,,,ADC15,,,,,,,,,1
+Text,,,,,,,,,,,,,
+Power,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+EOF,,,,,,,,,,,,,
