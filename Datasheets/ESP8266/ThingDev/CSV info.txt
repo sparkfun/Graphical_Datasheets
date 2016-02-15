@@ -1,0 +1,1 @@
+Because of the similarities between the Thing Dev board and the Thing board (WRL-13231) I did not do a csv file for this board, but instead started from the finished Thing board Graphical Datasheet.
