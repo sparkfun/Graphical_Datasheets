@@ -16,7 +16,7 @@
    id="svg4498"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="ThingFinal.svg">
+   sodipodi:docname="ESP8266ThingV1.svg">
   <defs
      id="defs4500" />
   <sodipodi:namedview
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="485.3986"
+     inkscape:cx="252.55844"
      inkscape:cy="376.23402"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
@@ -1390,11 +1390,16 @@
        y="187.0437"
        id="text296">Unpopulated Ics</text>
     <text
-       style="font-size:12px;font-family:Montserrat;fill:#000000"
+       style="font-size:12.00000048px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
        font-size="12"
        x="11.99971"
        y="204.0437"
-       id="text298">ATECC108A full turnkey ECSDA engine</text>
+       id="text298"
+       sodipodi:linespacing="125%">
+      <tspan
+         sodipodi:role="line"
+         id="tspan4350">ATECC108A full turnkey ECDSA engine</tspan>
+    </text>
     <text
        style="font-size:12px;font-family:Montserrat;fill:#000000"
        font-size="12"
