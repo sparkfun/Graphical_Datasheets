@@ -15,7 +15,7 @@
    viewBox="0 0 990 765"
    id="svg4498"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 r15299"
    sodipodi:docname="ESP8266ThingDevV1.svg">
   <defs
      id="defs4500" />
@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1647059"
-     inkscape:cx="495"
+     inkscape:cx="352.04546"
      inkscape:cy="382.5"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -218,8 +218,7 @@
        font-size="12"
        x="651.27502"
        y="347.06595"
-       id="text96"
-       sodipodi:linespacing="125%">
+       id="text96">
       <tspan
          sodipodi:role="line"
          id="tspan6416"
@@ -365,8 +364,7 @@
        font-size="12"
        x="523.36957"
        y="435.60617"
-       id="text148"
-       sodipodi:linespacing="125%">
+       id="text148">
       <tspan
          sodipodi:role="line"
          id="tspan4360">16</tspan>
@@ -400,8 +398,7 @@
        font-size="12"
        x="651.27502"
        y="434.79782"
-       id="text156"
-       sodipodi:linespacing="125%">
+       id="text156">
       <tspan
          sodipodi:role="line"
          id="tspan4394"
@@ -452,8 +449,7 @@
        font-size="12"
        x="651.27502"
        y="455.5914"
-       id="text168"
-       sodipodi:linespacing="125%">10-bit 1V</text>
+       id="text168">10-bit 1V</text>
     <rect
        style="opacity:0.3;fill:#ffffff;stroke:#000000;stroke-width:1.33234942"
        height="15.988193"
@@ -468,8 +464,7 @@
        font-size="12"
        x="523.36957"
        y="475.57663"
-       id="text172"
-       sodipodi:linespacing="125%">
+       id="text172">
       <tspan
          sodipodi:role="line"
          id="tspan4362">15</tspan>
@@ -488,8 +483,7 @@
        font-size="12"
        x="587.32227"
        y="475.57663"
-       id="text176"
-       sodipodi:linespacing="125%">
+       id="text176">
       <tspan
          sodipodi:role="line"
          id="tspan4364">D15</tspan>
@@ -568,8 +562,7 @@
        font-size="12"
        x="241.04839"
        y="335.05789"
-       id="text200"
-       sodipodi:linespacing="125%">
+       id="text200">
       <tspan
          sodipodi:role="line"
          id="tspan4368">2</tspan>
@@ -618,8 +611,7 @@
        font-size="12"
        x="241.04839"
        y="355.04312"
-       id="text212"
-       sodipodi:linespacing="125%">
+       id="text212">
       <tspan
          sodipodi:role="line"
          id="tspan4370">14</tspan>
@@ -653,8 +645,7 @@
        font-size="12"
        x="113.14286"
        y="355.04312"
-       id="text220"
-       sodipodi:linespacing="125%">SCL/SCLK</text>
+       id="text220">SCL/SCLK</text>
     <rect
        style="opacity:0.3;fill:#ffffff;stroke:#000000;stroke-width:1.33234942"
        height="15.988193"
@@ -669,8 +660,7 @@
        font-size="12"
        x="241.04839"
        y="375.02838"
-       id="text224"
-       sodipodi:linespacing="125%">
+       id="text224">
       <tspan
          sodipodi:role="line"
          id="tspan4363">RST</tspan>
@@ -689,8 +679,7 @@
        font-size="12"
        x="177.09563"
        y="375.02838"
-       id="text228"
-       sodipodi:linespacing="125%">
+       id="text228">
       <tspan
          sodipodi:role="line"
          id="tspan4390">Reset</tspan>
@@ -709,8 +698,7 @@
        font-size="12"
        x="241.04839"
        y="395.01361"
-       id="text232"
-       sodipodi:linespacing="125%">
+       id="text232">
       <tspan
          sodipodi:role="line"
          id="tspan4374">TX</tspan>
@@ -759,8 +747,7 @@
        font-size="12"
        x="241.04839"
        y="414.99887"
-       id="text244"
-       sodipodi:linespacing="125%">
+       id="text244">
       <tspan
          sodipodi:role="line"
          id="tspan4376">RX</tspan>
@@ -809,8 +796,7 @@
        font-size="12"
        x="241.04839"
        y="434.9841"
-       id="text256"
-       sodipodi:linespacing="125%">
+       id="text256">
       <tspan
          sodipodi:role="line"
          id="tspan4378">5V</tspan>
@@ -829,8 +815,7 @@
        font-size="12"
        x="177.09563"
        y="434.9841"
-       id="text260"
-       sodipodi:linespacing="125%">
+       id="text260">
       <tspan
          sodipodi:role="line"
          id="tspan4392">V_USB</tspan>
@@ -864,8 +849,7 @@
        font-size="12"
        x="177.09563"
        y="454.96933"
-       id="text268"
-       sodipodi:linespacing="125%">Not Connected</text>
+       id="text268">Not Connected</text>
     <rect
        style="opacity:0.3;fill:#ffffff;stroke:#000000;stroke-width:1.33234942"
        height="15.988193"
@@ -937,8 +921,7 @@
        font-size="12"
        x="11.554909"
        y="41.3396"
-       id="text282"
-       sodipodi:linespacing="125%">
+       id="text282">
       <tspan
          sodipodi:role="line"
          id="tspan4345"
@@ -1097,6 +1080,25 @@
        y="621.13202"
        rx="0.58057147"
        ry="0.58057147" />
+    <rect
+       style="opacity:0.5;fill:#808080;stroke:#808080;stroke-width:1.33234942"
+       height="15.988194"
+       rx="1.3323494"
+       ry="1.3323494"
+       width="59.955727"
+       x="649.94305"
+       y="459.58813"
+       id="rect134-6" />
+    <text
+       style="font-size:15.98875045px;font-family:Montserrat;fill:#000000;stroke-width:1;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       font-size="12"
+       x="651.27539"
+       y="475.57632"
+       id="text136-4">
+      <tspan
+         sodipodi:role="line"
+         id="tspan240">CS</tspan>
+    </text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1107,15 +1109,13 @@
        font-size="12"
        x="388.45895"
        y="139.85973"
-       id="text288"
-       sodipodi:linespacing="125%">MicroB USB</text>
+       id="text288">MicroB USB</text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000048px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:center;writing-mode:lr;text-anchor:middle;fill:#000000;"
        font-size="12"
        x="445.09485"
        y="132.036"
-       id="text292"
-       sodipodi:linespacing="125%">
+       id="text292">
       <tspan
          sodipodi:role="line"
          id="tspan4347">3.7-6V</tspan>
@@ -1124,7 +1124,7 @@
          id="tspan4349">Power connector</tspan>
       <tspan
          sodipodi:role="line"
-         id="tspan4351"></tspan>
+         id="tspan4351" />
     </text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
@@ -1132,29 +1132,25 @@
        x="154.15985"
        y="-520.64313"
        id="text294"
-       sodipodi:linespacing="125%"
        transform="matrix(0,1,-1,0,0,0)">Power switch</text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.00000048px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';text-align:end;writing-mode:lr;text-anchor:end;fill:#000000;"
        font-size="12"
        x="301.93604"
        y="519.18719"
-       id="text304"
-       sodipodi:linespacing="125%">u.fl antenna connector</text>
+       id="text304">u.fl antenna connector</text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000"
        font-size="12"
        x="301.93604"
        y="536.18713"
-       id="text306"
-       sodipodi:linespacing="125%">Not Connected</text>
+       id="text306">Not Connected</text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000048px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:end;writing-mode:lr;text-anchor:end;fill:#000000;"
        font-size="12"
        x="301.93604"
        y="553.18713"
-       id="text308"
-       sodipodi:linespacing="125%">
+       id="text308">
       <tspan
          sodipodi:role="line"
          id="tspan4400">To use swap the solder jumper</tspan>
@@ -1170,15 +1166,13 @@
        font-size="12"
        x="11.591686"
        y="637.28857"
-       id="text336"
-       sodipodi:linespacing="125%">Power (ESP8266 Thing)</text>
+       id="text336">Power (ESP8266 Thing)</text>
     <text
        style="font-size:12.00000048px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
        font-size="12"
        x="11.591686"
        y="654.28857"
-       id="text338"
-       sodipodi:linespacing="125%">
+       id="text338">
       <tspan
          sodipodi:role="line"
          id="tspan4414">Vin: 3.7V-6V</tspan>
@@ -1188,8 +1182,7 @@
        font-size="12"
        x="11.591686"
        y="671.28857"
-       id="text340"
-       sodipodi:linespacing="125%">
+       id="text340">
       <tspan
          sodipodi:role="line"
          id="tspan4353">VUSB: 5V</tspan>
@@ -1199,8 +1192,7 @@
        font-size="12"
        x="11.591686"
        y="688.28857"
-       id="text342"
-       sodipodi:linespacing="125%">
+       id="text342">
       <tspan
          sodipodi:role="line"
          id="tspan4418">VCC:3.3V @500mA</tspan>
@@ -1210,8 +1202,7 @@
        font-size="12"
        x="11.591686"
        y="705.28851"
-       id="text344"
-       sodipodi:linespacing="125%">
+       id="text344">
       <tspan
          sodipodi:role="line"
          id="tspan4420">Max 12mA per I/O pin</tspan>
@@ -1221,8 +1212,7 @@
        font-size="12"
        x="266.93069"
        y="639.36005"
-       id="text326"
-       sodipodi:linespacing="125%">
+       id="text326">
       <tspan
          sodipodi:role="line"
          id="tspan4359">Typical Power (ESP8266 module)</tspan>
@@ -1256,15 +1246,13 @@
        font-size="12"
        x="518.7688"
        y="633.96454"
-       id="text348"
-       sodipodi:linespacing="125%">LEDs</text>
+       id="text348">LEDs</text>
     <text
        style="font-size:12.00000048px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
        font-size="12"
        x="518.7688"
        y="650.96454"
-       id="text350"
-       sodipodi:linespacing="125%">
+       id="text350">
       <tspan
          sodipodi:role="line"
          id="tspan4422">Power: Red</tspan>
@@ -1283,8 +1271,7 @@
        font-size="12"
        x="518.34564"
        y="715.35138"
-       id="text356"
-       sodipodi:linespacing="125%">Wi-Fi</text>
+       id="text356">Wi-Fi</text>
     <text
        style="font-size:12px;font-family:Montserrat;fill:#000000"
        font-size="12"
@@ -1320,8 +1307,7 @@
        font-size="12"
        x="527.56555"
        y="517.91284"
-       id="text314"
-       sodipodi:linespacing="125%">
+       id="text314">
       <tspan
          sodipodi:role="line"
          id="tspan4402">Jumpers on back</tspan>
@@ -1331,8 +1317,7 @@
        font-size="12"
        x="527.56555"
        y="534.91284"
-       id="text316"
-       sodipodi:linespacing="125%">
+       id="text316">
       <tspan
          sodipodi:role="line"
          id="tspan4404">PWR-LED - cut to disconnect power LED</tspan>
@@ -1466,7 +1451,6 @@
        x="27.026785"
        y="485.06982"
        id="text4355"
-       sodipodi:linespacing="125%"
        transform="scale(1.3769836,0.72622505)"><tspan
          sodipodi:role="line"
          id="tspan4357"
@@ -1478,7 +1462,6 @@
        x="143.07799"
        y="601.84589"
        id="text4356"
-       sodipodi:linespacing="125%"
        transform="scale(1.6828616,0.59422594)"><tspan
          sodipodi:role="line"
          id="tspan4361"
