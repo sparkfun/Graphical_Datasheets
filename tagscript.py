@@ -37,7 +37,8 @@ myfile="ProMini" #file read in to be parsed
 fontsize=12
 imagewidth=250
 imageheight=250
-indent = 1
+indent = 1      # move text to the right
+adjust = -2     # move text down (negative for up)
 
 # "Theme"
 #            Name     Power    GND      Control   Arduino  Port     Analog
@@ -82,7 +83,7 @@ def writeField(type, value, row, spot):
 
     # Text
     dwg.add(dwg.text(
-        str(value), insert = (x + indent, y + height),
+        str(value), insert = (x + indent, y + height + adjust),
         font_size = fontsize, font_family='Montserrat', fill = ctext
         ))
 
