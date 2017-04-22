@@ -143,7 +143,7 @@ while (rawline!=""):
   if (line[0] == "EOF"): #if we are done
     dwg.save()
     break
-  for i in range(0,fields): #go through total number of fields
+  for i in range(0, len(line)): #go through total number of fields
       if(line[i]!="" and direction=='r'):
         writeField(i,line[i],row, spot)#call function to add that field to the svg file
         spot=spot+1 #move 'cursor' one spot to the right
@@ -162,6 +162,7 @@ while (rawline!=""):
 
 
 print ("End of File, the output is located at " + myfile + ".svg")
+dwg.save()
 file.close()
 
 
