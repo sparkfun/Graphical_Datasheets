@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#http://www.astro.ufl.edu/~warner/prog/python.html  - Python Basics if you want to learn some Pythong
+#http://www.astro.ufl.edu/~warner/prog/python.html  - Python Basics if you want to learn some Python
 #https://pypi.python.org/pypi/svgwrite/  - Library this script uses
 #install Python27, download svgwrite, from svgwrite folder run "C:\Python27\python setup.py install"
 
@@ -103,7 +103,7 @@ def writeImages(i,value,row):
 
 
 #open file with read access
-myfile = raw_input("Enter file name minus .csv extension ()ex. ESP8266/Thing): ")
+myfile = raw_input("Enter file name minus .csv extension (eg. ESP8266/Thing): ")
 if os.access(myfile +".csv", os.R_OK):
   file = open(myfile +".csv","r")
   print "File opened"
