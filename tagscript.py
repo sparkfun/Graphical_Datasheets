@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#http://www.astro.ufl.edu/~warner/prog/python.html  - Python Basics if you want to learn some Pythong
+#http://www.astro.ufl.edu/~warner/prog/python.html  - Python Basics if you want to learn some Python
 #https://pypi.python.org/pypi/svgwrite/  - Library this script uses
 #install Python27, download svgwrite, from svgwrite folder run "C:\Python27\python setup.py install"
 
@@ -37,7 +37,16 @@ myfile="ProMini" #file read in to be parsed
 fontsize=12
 imagewidth=250
 imageheight=250
-indent = 1
+indent = 1      # move text to the right
+adjust = -2     # move text down (negative for up)
+
+# "Theme"
+#            Name     Power    GND      Control   Arduino  Port     Analog
+#        PWM       Serial  ExtInt    PCInt     Misc    Misc2
+tcolor   = ['white', 'red',   'black', 'yellow', 'green', 'blue',  'purple',
+        'yellow', 'grey', 'purple', 'orange', 'blue', 'blue', ]
+topacity = [ 0.3,     0.8,     0.9,     0.7,      0.3,     0.4,     0.4,
+         0.3,      0.3,    0.2,      0.5,      0.1,    0.1,   ]
 
 ################################################# FUNCTIONS ###################################################
 
@@ -50,75 +59,33 @@ def writeText(i,value,row):
   previoustext = previoustext + textheight  
   #end writeText
 
-#Creates colored blocks and text for fields
-def writeField(type,value,row,spot):
-  #print("Type: " + str(type) + "  Value: " + value)
-  if (type==0): #Pin name on board
-    box0 = dwg.add(dwg.rect((rowwidth*spot+offset,row*rowheight), (width,height), 1, 1, stroke='black', opacity=0.3, fill='white'))
-    text0 = dwg.add(dwg.text(str(value), insert=(spot*rowwidth+offset+indent,row*rowheight+height),font_size=fontsize, font_family='Montserrat',  fill='black'))
-    #print("Box0, in white with " + value + " written in black")
-	
-  elif(type==1): #Power
-    box1 = dwg.add(dwg.rect((rowwidth*spot+offset,row*rowheight), (width,height), 1, 1, stroke='red', opacity=0.8, fill='red'))
-    text1 = dwg.add(dwg.text(str(value), insert=(spot*rowwidth+offset+indent,row*rowheight+height),font_size=fontsize, font_family='Montserrat',  fill='black'))
-    #print("Box1, in red with " + value + " written in black")
-	
-  elif(type==2): #GND
-    box2 = dwg.add(dwg.rect((rowwidth*spot+offset,row*rowheight), (width,height), 1, 1, stroke='black', opacity=0.9, fill='black'))
-    text2 = dwg.add(dwg.text(str(value), insert=(spot*rowwidth+offset+indent,row*rowheight+height),font_size=fontsize, font_family='Montserrat',  fill='white'))
-    #print("Box2, in black with " + value + " written in white")
-	
-  elif(type==3):#Control
-    box3 = dwg.add(dwg.rect((rowwidth*spot+offset,row*rowheight), (width,height), 1, 1, stroke='yellow', opacity=0.7, fill='yellow'))
-    text3 = dwg.add(dwg.text(str(value), insert=(spot*rowwidth+offset+indent,row*rowheight+height),font_size=fontsize, font_family='Montserrat',  fill='black'))
-    #print("Box3 in red with " + value + " written in black")
-	
-  elif(type==4):#Arduino Pin number
-    box4 = dwg.add(dwg.rect((rowwidth*spot+offset,row*rowheight), (width,height), 1, 1, stroke='green', opacity=0.3, fill='green'))
-    text4 = dwg.add(dwg.text(str(value), insert=(spot*rowwidth+offset+indent,row*rowheight+height),font_size=fontsize, font_family='Montserrat',  fill='black'))
-    #print("Box4 in green with " + value + " written in black")
-	
-  elif(type==5):#Port
-    box5 = dwg.add(dwg.rect((rowwidth*spot+offset,row*rowheight), (width,height), 1, 1, stroke='blue', opacity=0.4, fill='blue'))
-    text5 = dwg.add(dwg.text(str(value), insert=(spot*rowwidth+offset+indent,row*rowheight+height),font_size=fontsize, font_family='Montserrat',  fill='black'))
-    #print("Box5 in blue with " + value + " written in black")
-	
-  elif(type==6):#Analog Pin
-    box6 = dwg.add(dwg.rect((rowwidth*spot+offset,row*rowheight), (width,height), 1, 1, stroke='purple', opacity=0.4, fill='purple'))
-    text6 = dwg.add(dwg.text(str(value), insert=(spot*rowwidth+offset+indent,row*rowheight+height),font_size=fontsize, font_family='Montserrat',  fill='black'))
-    #print("Box6 in purple with " + value + " written in black")
-	
-  elif(type==7):#PWM
-    box7 = dwg.add(dwg.rect((rowwidth*spot+offset,row*rowheight), (width,height), 1, 1, stroke='yellow', opacity=0.3, fill='yellow'))
-    text7 = dwg.add(dwg.text(str(value), insert=(spot*rowwidth+offset+indent,row*rowheight+height),font_size=fontsize, font_family='Montserrat',  fill='black'))
-    #print("Box7 in yellow with " + value + " written in black")
-	
-  elif(type==8):#Serial
-    box8 = dwg.add(dwg.rect((rowwidth*spot+offset,row*rowheight), (width,height), 1, 1, stroke='grey', opacity=0.3, fill='grey'))
-    text8 = dwg.add(dwg.text(str(value), insert=(spot*rowwidth+offset+indent,row*rowheight+height),font_size=fontsize, font_family='Montserrat',  fill='black'))
-    #print("Box8 in grey with " + value + " written in black")
-	
-  elif(type==9):#External Interupt
-    box9 = dwg.add(dwg.rect((rowwidth*spot+offset,row*rowheight), (width,height), 1, 1, stroke='purple', opacity=0.2, fill='purple'))
-    text9 = dwg.add(dwg.text(str(value), insert=(spot*rowwidth+offset+indent,row*rowheight+height),font_size=fontsize, font_family='Montserrat',  fill='black'))
-    #print("Box9 in purple with " + value + " written in black")
-	
-  elif(type==10):#Pin Chg Int
-    box10 = dwg.add(dwg.rect((rowwidth*spot+offset,row*rowheight), (width,height), 1, 1, stroke='orange', opacity=0.5, fill='orange'))
-    text10 = dwg.add(dwg.text(str(value), insert=(spot*rowwidth+offset+indent,row*rowheight+height),font_size=fontsize-3, font_family='Montserrat',  fill='black'))
-    #print("Box10 in orange with " + value + " written in black")
-	
-  elif(type==11):#Misc
-    box11 = dwg.add(dwg.rect((rowwidth*spot+offset,row*rowheight), (width,height), 1, 1, stroke='blue', opacity=0.1, fill='blue'))
-    text11 = dwg.add(dwg.text(str(value), insert=(spot*rowwidth+offset+indent,row*rowheight+height),font_size=fontsize, font_family='Montserrat',  fill='black'))
-    #print("Box11 in blue with " + value + " written in black")
-	
-  elif(type==12):#Misc2
-    box12 = dwg.add(dwg.rect((rowwidth*spot+offset,row*rowheight), (width,height), 1, 1, stroke='blue', opacity=0.1, fill='blue'))
-    text12 = dwg.add(dwg.text(str(value), insert=(spot*rowwidth+offset+indent,row*rowheight+height),font_size=fontsize, font_family='Montserrat',  fill='black'))
-    #print("Box12 in blue with " + value + " written in black")
-	#to add more, change elif statement, stroke color, fill color, text color, variable names (box and text) and print statement, also change 'fields' global variable
-#end writeField
+# Creates colored blocks and text for fields
+def writeField(type, value, row, spot):
+
+    x = spot * rowwidth + offset
+    y = row * rowheight
+
+    color = tcolor[type]  # fill color of box
+    crect = color         # color for rectangle around box
+    ctext = 'black'       # default text color: black
+
+    if color == 'white':  # white boxes get black outlines
+        crect = 'black'
+
+    if color == 'black':  # don't write black-on-black
+        ctext = 'white'
+
+    # Box
+    dwg.add(dwg.rect(
+        (x, y), (width, height), 1, 1,
+        stroke = crect, opacity = topacity[type], fill = color
+        ))
+
+    # Text
+    dwg.add(dwg.text(
+        str(value), insert = (x + indent, y + height + adjust),
+        font_size = fontsize, font_family='Montserrat', fill = ctext
+        ))
 
 
 #adds images to end of document, currently not used as pngs don't work as well as I'd like and it is easier to just drag and drop the files I want into the final file.
@@ -136,7 +103,7 @@ def writeImages(i,value,row):
 
 
 #open file with read access
-myfile = raw_input("Enter file name minus .csv extension ()ex. ESP8266/Thing): ")
+myfile = raw_input("Enter file name minus .csv extension (eg. ESP8266/Thing): ")
 if os.access(myfile +".csv", os.R_OK):
   file = open(myfile +".csv","r")
   print "File opened"
@@ -176,7 +143,7 @@ while (rawline!=""):
   if (line[0] == "EOF"): #if we are done
     dwg.save()
     break
-  for i in range(0,fields): #go through total number of fields
+  for i in range(0, len(line)): #go through total number of fields
       if(line[i]!="" and direction=='r'):
         writeField(i,line[i],row, spot)#call function to add that field to the svg file
         spot=spot+1 #move 'cursor' one spot to the right
@@ -195,6 +162,7 @@ while (rawline!=""):
 
 
 print ("End of File, the output is located at " + myfile + ".svg")
+dwg.save()
 file.close()
 
 
