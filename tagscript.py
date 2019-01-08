@@ -103,13 +103,14 @@ def writeImages(i,value,row):
 
 
 #open file with read access
-myfile = raw_input("Enter file name minus .csv extension (eg. ESP8266/Thing): ")
+print "Make sure the python script is in the same folder as the file."
+myfile = raw_input("Enter file name without the .csv extension (eg. ESP8266/Thing): ")
 if os.access(myfile +".csv", os.R_OK):
   file = open(myfile +".csv","r")
   print "File opened"
 else:
   print "File not found, please try again, there should be a comma deliminated csv file with the data in it.  See script for more details"
-  time.sleep(10)
+  time.sleep(1)
   os._exit(0)
 
 #read in each line parse, and send each field to writeField  
