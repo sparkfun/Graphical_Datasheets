@@ -7,7 +7,7 @@ GND,,GND,,,,,,,,,,,1
 13,,,,D13,PB5,,,SCK,,PCINT5,LED,,1
 12,,,,D12,PB4,,,MISO,,PCINT4,,,1
 11,,,,D11,PB3,,8-bit,MOSI,,PCINT3,OC2A,,1
-10,,,,D10,PCB2,,8-bit,SS,,PCINT2,OC1B,,1
+10,,,,D10,PB2,,8-bit,SS,,PCINT2,OC1B,,1
 9,,,,D9,PB1,,8-bit,,,PCINT1 ,OC1A,,1
 8,,,,D8,PB0,,,,,PCINT0,ICP1,CLKO,1
 Right,,,,,,,,,,,,,1
