@@ -38,7 +38,7 @@ Repository Contents
 
 * **/Datasheets** - CSV of pinouts and graphical datasheets for development boards
 * **tagscript.py** - Script to generate cells for graphical datasheets
-* **tagscript_original-mshorter.py** - Originally script to individually modify each column attribute if necessary
+* **tagscript_original-mshorter.py** - Original script to individually modify each column attribute if necessary
 
 Documentation
 --------------
