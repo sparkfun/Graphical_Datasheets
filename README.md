@@ -3,6 +3,17 @@ Graphical Datasheets
 
 Code, final versions, and information on the Sparkfun Graphical Datasheets.
 
+<table class="table table-hover table-striped table-bordered">
+  <tr align="center">
+   <td><a href="https://cdn.sparkfun.com/assets/home_page_posts/1/9/4/7/ProMiniRaw.png"><img src="https://cdn.sparkfun.com/assets/home_page_posts/1/9/4/7/ProMiniRaw.png" alt="Generated Cells"></a></td>
+   <td><a href="https://cdn.sparkfun.com/assets/home_page_posts/1/9/4/7/ProMini16MHzv1.png"><img src="https://cdn.sparkfun.com/assets/home_page_posts/1/9/4/7/ProMini16MHzv1.png" alt="Completed Graphical Datasheet"></a></td>
+  </tr>
+  <tr align="center">
+   <td><i>Generated Cells After Running Script</i></td>
+   <td><i>Example Completed Graphical Datasheet</i></td>
+  </tr>
+</table>
+
 This repo includes the Python script used to help generate the graphical datasheets.  It also includes the final .svg, and .pdf files as well as the .csv files use for development boards.  The .csv files were used as a starting point and some text did change between the file and the final version.  There is also a User Submitted folder for external contributions.
 
 Software Setup Notes
