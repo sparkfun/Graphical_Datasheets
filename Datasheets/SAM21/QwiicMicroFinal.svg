@@ -17,7 +17,7 @@
    id="svg2260"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="QwiicMicroFinal.svg"
-   inkscape:export-filename="C:\Users\bobby.chan\Documents\GitHub\sparkfun\SparkFun_Qwiic_Micro_SAMD21E\Documents\Graphical_Datasheet\QwiicMicroFinal.png"
+   inkscape:export-filename="C:\Users\hocha\Documents\GitHub\Graphical_Datasheets\Datasheets\SAM21\Qwiic_Micro_SAMD21E_Graphical_Datasheet.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -41,20 +41,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="831.21521"
-     inkscape:cy="298.25919"
+     inkscape:zoom="1.4"
+     inkscape:cx="641.54109"
+     inkscape:cy="216.95249"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1920"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata2257">
     <rdf:RDF>
@@ -63,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -166,7 +167,7 @@
          sodipodi:role="line"
          id="tspan1113"
          x="7.7508159"
-         y="186.49989">VCC: 3.3V @600mV</tspan><tspan
+         y="186.49989">VCC: 3.3V @600mA</tspan><tspan
          sodipodi:role="line"
          id="tspan1115"
          x="7.7508159"
