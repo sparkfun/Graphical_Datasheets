@@ -1,0 +1,90 @@
+Name,Power,GND,Control,Arduino,Port,ADC,PWM,Serial,Ext Interrupt,PC Interrupt,Misc,Misc2,1
+Left,,,,,,,,,,,,,1
+76,,,,,,,,,,,N/C,,1
+74,3.3V,,,,,,,,,,,,1
+72,RTC_3V_BATT,,,,,,,,,,,,1
+70,,,,,,,,SDIO_DATA3 (I/O),,,SPI_CS1#,,1
+68,,,,,,,,SDIO_DATA2 (I/O),,,,,1
+66,,,,,,,,SDIO_DATA1 (I/O),,,,,1
+64,,,,,,,,SPI_CIPO1,SDIO_DATA0 (I/O),,,,1
+62,,,,,,,,SPI COPI1,SDIO_CMD (I/O),,,,1
+60,,,,,,,,SPI SCK1,SDIO_SCK (O),,,,1
+58,,,,,,,,,AUD_MCLK (O),,,,1
+56,,,,,,,,,AUD_OUT,PCM_OUT, I2S_OUT,CAM_MCLK,1
+54,,,,,,,,,AUD_IN,PCM_IN, I2S_IN,CAM_PCLK,1
+52,,,,,,,,,AUD_LRCLK,PCM_SYNC,I2S_WS,PDM_DATA (I/O),1
+50,,,,,,,,,AUD_BCLK,PCM_CLK,I2S_SCK,PDM_CLK (I/O),1
+48,,,,,,,,,,G4,,BUS4,1
+46,,,,,,,,,,G3,,BUS3,1
+44,,,,,,,,,,G2,,BUS2,1
+42,,,,,,,,,,G1,,BUS1,1
+40,,,,,,,,,,G0,,BUS0,1
+38,,,,,,A1,,,,,,,1
+36,,GND,,,,,,,,,,,1
+34,,,,,,A0,,,,,,,1
+32,,,,,,,PWM0,,,,,,1
+30,,Module Key,,,,,,,,,,,1
+28,,Module Key,,,,,,,,,,,1
+26,,Module Key,,,,,,,,,,,1
+24,,Module Key,,,,,,,,,,,1
+22,,,,,,,,UART_TX2 (O),,,,,1
+20,,,,,,,,UART_RX2 (I),,,,,1
+18,,,,D1,,,,,,,CAM_TRIG,,1
+16,,,,,,,,I2C_INT# (I),,,,,1
+14,,,,,,,,I2C_SCL (I/O),,,,,1
+12,,,,,,,,I2C_SDA (I/O),,,,,1
+10,,,,D0,,,,,,,,,1
+8,,,,,,,,,,G11,SWDSWO,,1
+6,,,RESET# (I - Open Drain),,,,,,,,,,1
+4,3.3V_EN,,,,,,,,,,,,1
+2,3.3V,,,,,,,,,,,,1
+,,,,,,,,,,,,,1
+Right,,,,,,,,,,,,,1
+75,,GND,,,,,,,,,,,1
+73,,,,,,,,,,G5,,BUS5,1
+71,,,,,,,,,,G6,,BUS6,1
+69,,,,,,,,,,G7,,BUS7,1
+67,,,,,,,,,,G8,,,1
+65,,,,,,,,,,G9,ADC_D-,CAM_HSYNC,1
+63,,,,,,,,,,G10,ADC_D+,CAM_VSYNC,1
+61,,,,,,,,SPI_CIPO (I),,,,,1
+59,,,,,,,,SPI_COPI (O),,,,,1
+57,,,,,,,,SPI_SCK (O),,,,,1
+55,,,,,,,,SPI_CS#,,,,,1
+53,,,,,,,,I2C_SCL1 (I/O),,,,,1
+51,,,,,,,,I2C_SDA1 (I/O),,,,,1
+49,BATT_VIN / 3 (I - ADC) (0 to 3.3V),,,,,,,,,,,,1
+47,,,,,,,PWM1,,,,,,1
+45,,GND,,,,,,,,,,,1
+43,,,,,,,,CAN_TX,,,,,1
+41,,,,,,,,CAN_RX,,,,,1
+39,,GND,,,,,,,,,,,1
+37,,,,,,,,USBHOST_D-,,,,,1
+35,,,,,,,,USBHOST_D+,,,,,1
+33,,GND,,,,,,,,,,,1
+31,,Module Key,,,,,,,,,,,1
+29,,Module Key,,,,,,,,,,,1
+27,,Module Key,,,,,,,,,,,1
+25,,Module Key,,,,,,,,,,,1
+23,,,,,,,,SWDIO,,,,,1
+21,,,,,,,,SWDCK,,,,,1
+19,,,,,,,,UART_RX1 (I),,,,,1
+17,,,,,,,,UART_TX1 (0),,,,,1
+15,,,,,,,,UART_CTS1 (I),,,,,1
+13,,,,,,,,UART_RTS1 (O),,,,,1
+11,,,BOOT (I - Open Drain),,,,,,,,,,1
+9,USB_VIN,,,,,,,,,,,,1
+7,,GND,,,,,,,,,,,1
+5,,,,,,,,USB_D-,,,,,1
+3,,,,,,,,USB_D+,,,,,1
+1,,GND,,,,,,,,,,,1
+Text,,,,,,,,,,,,,
+Power,Raw: 4.8V to 5.2V,VCC: 3.3V,Maximum current: ? @ 3.3V,,,,,,,,,,
+LEDs,Power: Red,User (D13): Green,,,,,,,,,,,
+MicroMod General Pinout v1.0,Programmed as Arduino Pro Mini w/ ATMega328,Frequency (Hz) varies by processor @ 3.3V,,,,,,,,,,,
+,,,,,,,,,,,,,
+Reset Button,,,,,,,,,,,,,
+Extras,,,,,,,,,,,,,
+MicroController,Logo,Legend,,,,,,,,,,,
+FTDI,,,,,,,,,,,,,
+EOF,,,,,,,,,,,,,
