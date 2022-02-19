@@ -126,22 +126,22 @@ def writeImages(i,value,row):
   global previoustext
   currentimage = "Images/" + value + ".png"
   if os.access(currentimage, os.R_OK):
-    print "Adding " + currentimage
+    print ("Adding " + currentimage)
     image = dwg.add(dwg.image(href=("../" +  currentimage), insert=(i*imagewidth,textstart)))
   else:
-    print "Could not find " + currentimage  
+    print ("Could not find " + currentimage)  
 #end writeImages
 
 
 
 
 #open file with read access
-myfile = raw_input("Enter file name minus .csv extension ()ex. ESP8266/Thing): ")
+myfile = input("Enter file name minus .csv extension ()ex. ESP8266/Thing): ")
 if os.access(myfile +".csv", os.R_OK):
   file = open(myfile +".csv","r")
-  print "File opened"
+  print ("File opened")
 else:
-  print "File not found, please try again, there should be a comma deliminated csv file with the data in it.  See script for more details"
+  print ("File not found, please try again, there should be a comma deliminated csv file with the data in it.  See script for more details")
   time.sleep(10)
   os._exit(0)
 
@@ -174,7 +174,7 @@ while (rawline!=""):
     line[0]=""
     direction = "extras"
   if (line[0] == "EOF"): #if we are done
-    print "Done"
+    print ("Done")
     dwg.save()
     break
   for i in range(0,fields): #go through total number of fields
