@@ -2,21 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="11in"
    height="8.5in"
    viewBox="0 0 990 765"
    id="svg4530"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="FinalMini.svg">
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="SamD21MiniV1.svg"
+   inkscape:export-filename="SamD21MiniV1.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4532" />
   <sodipodi:namedview
@@ -26,18 +29,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1647059"
-     inkscape:cx="495"
-     inkscape:cy="382.5"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="642.40651"
+     inkscape:cy="246.42671"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
-     inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
+     inkscape:window-x="2429"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata4535">
     <rdf:RDF>
@@ -78,7 +84,7 @@
        y="273.77335"
        id="rect62" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="560.46069"
        y="284.53864"
@@ -93,7 +99,7 @@
        y="273.77335"
        id="rect66" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="603.52173"
        y="284.53864"
@@ -108,7 +114,7 @@
        y="287.22995"
        id="rect74" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="560.46069"
        y="297.99521"
@@ -123,7 +129,7 @@
        y="287.22995"
        id="rect78" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#ffffff"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#ffffff"
        font-size="12"
        x="603.52173"
        y="297.99521"
@@ -138,7 +144,7 @@
        y="300.68652"
        id="rect86" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="560.46069"
        y="311.45175"
@@ -153,7 +159,7 @@
        y="300.68652"
        id="rect90" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="603.52173"
        y="311.45175"
@@ -168,7 +174,7 @@
        y="300.68652"
        id="rect94" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="646.58276"
        y="311.45175"
@@ -183,7 +189,7 @@
        y="300.68652"
        id="rect98" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="689.64374"
        y="311.45175"
@@ -198,12 +204,11 @@
        y="300.68652"
        id="rect102" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="732.70465"
        y="311.45175"
-       id="text104"
-       sodipodi:linespacing="125%">EXTINT3</text>
+       id="text104">EXTINT3</text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;fill-opacity:1;stroke-opacity:1"
        height="10.765248"
@@ -214,7 +219,7 @@
        y="300.68652"
        id="rect106" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="775.76575"
        y="311.45175"
@@ -229,7 +234,7 @@
        y="314.14307"
        id="rect114" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="560.46069"
        y="324.90833"
@@ -244,7 +249,7 @@
        y="314.14307"
        id="rect118" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="603.52173"
        y="324.90833"
@@ -259,7 +264,7 @@
        y="327.59964"
        id="rect126" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="560.46069"
        y="338.36487"
@@ -274,7 +279,7 @@
        y="327.59964"
        id="rect130" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="603.52173"
        y="338.36487"
@@ -289,7 +294,7 @@
        y="327.59964"
        id="rect134" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="646.58276"
        y="338.36487"
@@ -304,7 +309,7 @@
        y="327.59964"
        id="rect138" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="689.64374"
        y="338.36487"
@@ -319,7 +324,7 @@
        y="327.59964"
        id="rect142" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="732.70465"
        y="338.36487"
@@ -334,12 +339,11 @@
        y="327.59964"
        id="rect146" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="775.76575"
        y="338.36487"
-       id="text148"
-       sodipodi:linespacing="125%">EXTINT4</text>
+       id="text148">EXTINT4</text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -350,12 +354,11 @@
        y="327.59964"
        id="rect150" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="818.82672"
        y="338.36487"
-       id="text152"
-       sodipodi:linespacing="125%">SER0:0</text>
+       id="text152">SER0:0</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -366,12 +369,11 @@
        y="327.59964"
        id="rect154" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="861.8877"
        y="338.36487"
-       id="text156"
-       sodipodi:linespacing="125%">TCC0:0</text>
+       id="text156">TCC0:0</text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;fill-opacity:1;stroke-opacity:1"
        height="10.765248"
@@ -382,7 +384,7 @@
        y="327.59964"
        id="rect158" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="904.94867"
        y="338.36487"
@@ -397,7 +399,7 @@
        y="341.05621"
        id="rect166" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="560.46069"
        y="351.82144"
@@ -412,7 +414,7 @@
        y="341.05621"
        id="rect170" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="603.52173"
        y="351.82144"
@@ -427,7 +429,7 @@
        y="341.05621"
        id="rect174" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="646.58276"
        y="351.82144"
@@ -442,7 +444,7 @@
        y="341.05621"
        id="rect178" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="689.64374"
        y="351.82144"
@@ -457,12 +459,11 @@
        y="341.05621"
        id="rect182" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="732.70465"
        y="351.82144"
-       id="text184"
-       sodipodi:linespacing="125%">EXTINT9</text>
+       id="text184">EXTINT9</text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -473,12 +474,11 @@
        y="341.05621"
        id="rect186" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="775.76575"
        y="351.82144"
-       id="text188"
-       sodipodi:linespacing="125%">SER4:1</text>
+       id="text188">SER4:1</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -489,12 +489,11 @@
        y="341.05621"
        id="rect190" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="818.82672"
        y="351.82144"
-       id="text192"
-       sodipodi:linespacing="125%">TC4:1</text>
+       id="text192">TC4:1</text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;stroke-opacity:1;fill-opacity:1"
        height="10.765248"
@@ -505,7 +504,7 @@
        y="341.05621"
        id="rect194" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="861.8877"
        y="351.82144"
@@ -520,7 +519,7 @@
        y="354.51276"
        id="rect202" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="560.46069"
        y="365.27798"
@@ -535,7 +534,7 @@
        y="354.51276"
        id="rect206" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="603.52173"
        y="365.27798"
@@ -550,7 +549,7 @@
        y="354.51276"
        id="rect210" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="646.58276"
        y="365.27798"
@@ -565,7 +564,7 @@
        y="354.51276"
        id="rect214" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="689.64374"
        y="365.27798"
@@ -580,12 +579,11 @@
        y="354.51276"
        id="rect218" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="732.70465"
        y="365.27798"
-       id="text220"
-       sodipodi:linespacing="125%">EXTINT8</text>
+       id="text220">EXTINT8</text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -596,12 +594,11 @@
        y="354.51276"
        id="rect222" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="775.76575"
        y="365.27798"
-       id="text224"
-       sodipodi:linespacing="125%">SER4:0</text>
+       id="text224">SER4:0</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -612,12 +609,11 @@
        y="354.51276"
        id="rect226" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="818.82672"
        y="365.27798"
-       id="text228"
-       sodipodi:linespacing="125%">TC4:0</text>
+       id="text228">TC4:0</text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;stroke-opacity:1;fill-opacity:1"
        height="10.765248"
@@ -628,7 +624,7 @@
        y="354.51276"
        id="rect230" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="861.8877"
        y="365.27798"
@@ -643,7 +639,7 @@
        y="367.9693"
        id="rect238" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="560.46069"
        y="378.73456"
@@ -658,7 +654,7 @@
        y="367.9693"
        id="rect242" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="603.52173"
        y="378.73456"
@@ -673,7 +669,7 @@
        y="367.9693"
        id="rect246" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="646.58276"
        y="378.73456"
@@ -688,7 +684,7 @@
        y="367.9693"
        id="rect250" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="689.64374"
        y="378.73456"
@@ -703,12 +699,11 @@
        y="367.9693"
        id="rect254" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="732.70465"
        y="378.73456"
-       id="text256"
-       sodipodi:linespacing="125%">EXTINT2</text>
+       id="text256">EXTINT2</text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;fill-opacity:1;stroke-opacity:1"
        height="10.765248"
@@ -719,7 +714,7 @@
        y="367.9693"
        id="rect258" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="775.76575"
        y="378.73456"
@@ -734,7 +729,7 @@
        y="367.9693"
        id="rect262" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="818.82672"
        y="378.73456"
@@ -749,7 +744,7 @@
        y="381.42587"
        id="rect266" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="560.46069"
        y="392.19113"
@@ -764,7 +759,7 @@
        y="381.42587"
        id="rect270" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="603.52173"
        y="392.19113"
@@ -779,7 +774,7 @@
        y="381.42587"
        id="rect274" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="646.58276"
        y="392.19113"
@@ -794,12 +789,11 @@
        y="381.42587"
        id="rect278" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="689.64374"
        y="392.19113"
-       id="text280"
-       sodipodi:linespacing="125%">EXTINT1</text>
+       id="text280">EXTINT1</text>
     <rect
        style="opacity:0.3;fill:#808080;stroke:#808080;stroke-width:0.89710402"
        height="10.765248"
@@ -810,7 +804,7 @@
        y="381.42587"
        id="rect282" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="732.70465"
        y="392.19113"
@@ -825,12 +819,11 @@
        y="381.42587"
        id="rect286" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="775.76575"
        y="392.19113"
-       id="text288"
-       sodipodi:linespacing="125%">SER1:1/3:1*</text>
+       id="text288">SER1:1/3:1*</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -841,12 +834,11 @@
        y="381.42587"
        id="rect290" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="818.82672"
        y="392.19113"
-       id="text292"
-       sodipodi:linespacing="125%">TCC2:1/0:7</text>
+       id="text292">TCC2:1/0:7</text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;stroke-opacity:1;fill-opacity:1"
        height="10.765248"
@@ -857,7 +849,7 @@
        y="381.42587"
        id="rect294" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="861.8877"
        y="392.19113"
@@ -872,7 +864,7 @@
        y="394.88242"
        id="rect302" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="560.46069"
        y="405.64771"
@@ -887,7 +879,7 @@
        y="394.88242"
        id="rect306" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="603.52173"
        y="405.64771"
@@ -902,7 +894,7 @@
        y="394.88242"
        id="rect310" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="646.58276"
        y="405.64771"
@@ -917,12 +909,11 @@
        y="394.88242"
        id="rect314" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="689.64374"
        y="405.64771"
-       id="text316"
-       sodipodi:linespacing="125%">EXTINT3</text>
+       id="text316">EXTINT3</text>
     <rect
        style="opacity:0.3;fill:#808080;stroke:#808080;stroke-width:0.89710402"
        height="10.765248"
@@ -933,7 +924,7 @@
        y="394.88242"
        id="rect318" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="732.70465"
        y="405.64771"
@@ -948,12 +939,11 @@
        y="394.88242"
        id="rect322" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="775.76575"
        y="405.64771"
-       id="text324"
-       sodipodi:linespacing="125%">SER1:3/3:3</text>
+       id="text324">SER1:3/3:3</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -964,16 +954,16 @@
        y="394.88242"
        id="rect326" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
-       font-size="9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-size:5.625px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       font-size="9px"
        x="818.82672"
        y="405.64771"
-       id="text328"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text328"><tspan
          sodipodi:role="line"
-         id="tspan6226">TC3:1/TCC0:3</tspan>
-    </text>
+         id="tspan6226"
+         x="818.82672"
+         y="405.64771"
+         style="font-size:5.625px;line-height:1.25;-inkscape-font-specification:'Montserrat, Normal';font-family:Montserrat;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">TC3:1/TCC0:3</tspan></text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;stroke-opacity:1;fill-opacity:1"
        height="10.765248"
@@ -984,7 +974,7 @@
        y="394.88242"
        id="rect330" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="861.8877"
        y="405.64771"
@@ -999,12 +989,11 @@
        y="394.88242"
        id="rect334" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="904.94867"
        y="405.64771"
-       id="text336"
-       sodipodi:linespacing="125%">I2S/SD[0]</text>
+       id="text336">I2S/SD[0]</text>
     <rect
        style="opacity:0.7;fill:#ffffff;stroke:#d3008b;stroke-width:0.89710402;stroke-opacity:1"
        height="10.765248"
@@ -1015,7 +1004,7 @@
        y="408.33902"
        id="rect338" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="560.46069"
        y="419.10422"
@@ -1030,7 +1019,7 @@
        y="408.33902"
        id="rect342" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="603.52173"
        y="419.10422"
@@ -1045,7 +1034,7 @@
        y="408.33902"
        id="rect346" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="646.58276"
        y="419.10422"
@@ -1060,12 +1049,11 @@
        y="408.33902"
        id="rect350" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="689.64374"
        y="419.10422"
-       id="text352"
-       sodipodi:linespacing="125%">EXTINT0</text>
+       id="text352">EXTINT0</text>
     <rect
        style="opacity:0.3;fill:#808080;stroke:#808080;stroke-width:0.89710402"
        height="10.765248"
@@ -1076,7 +1064,7 @@
        y="408.33902"
        id="rect354" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="732.70465"
        y="419.10422"
@@ -1091,12 +1079,11 @@
        y="408.33902"
        id="rect358" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="775.76575"
        y="419.10422"
-       id="text360"
-       sodipodi:linespacing="125%">SER1:0/3:0*</text>
+       id="text360">SER1:0/3:0*</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -1107,12 +1094,11 @@
        y="408.33902"
        id="rect362" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="818.82672"
        y="419.10422"
-       id="text364"
-       sodipodi:linespacing="125%">TCC2:0/0:6</text>
+       id="text364">TCC2:0/0:6</text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;stroke-opacity:1;fill-opacity:1"
        height="10.765248"
@@ -1123,7 +1109,7 @@
        y="408.33902"
        id="rect366" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="861.8877"
        y="419.10422"
@@ -1138,7 +1124,7 @@
        y="421.79556"
        id="rect374" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="560.46069"
        y="432.56079"
@@ -1153,7 +1139,7 @@
        y="421.79556"
        id="rect378" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="603.52173"
        y="432.56079"
@@ -1168,7 +1154,7 @@
        y="421.79556"
        id="rect382" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="646.58276"
        y="432.56079"
@@ -1183,12 +1169,11 @@
        y="421.79556"
        id="rect386" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="689.64374"
        y="432.56079"
-       id="text388"
-       sodipodi:linespacing="125%">EXTINT2</text>
+       id="text388">EXTINT2</text>
     <rect
        style="opacity:0.3;fill:#808080;stroke:#808080;stroke-width:0.89710402"
        height="10.765248"
@@ -1199,7 +1184,7 @@
        y="421.79556"
        id="rect390" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="732.70465"
        y="432.56079"
@@ -1214,12 +1199,11 @@
        y="421.79556"
        id="rect394" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="775.76575"
        y="432.56079"
-       id="text396"
-       sodipodi:linespacing="125%">SER1:2/3:2</text>
+       id="text396">SER1:2/3:2</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -1230,12 +1214,11 @@
        y="421.79556"
        id="rect398" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="818.82672"
        y="432.56079"
-       id="text400"
-       sodipodi:linespacing="125%">TC3:0/TCC0:2</text>
+       id="text400">TC3:0/TCC0:2</text>
     <rect
        style="opacity:0.7;fill:#ffffff;stroke:#d3008b;stroke-width:0.89710402;stroke-opacity:1"
        height="10.765248"
@@ -1246,7 +1229,7 @@
        y="463.3046"
        id="rect410" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="540.7132"
        y="474.06989"
@@ -1261,7 +1244,7 @@
        y="463.3046"
        id="rect414" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="583.77423"
        y="474.06989"
@@ -1276,7 +1259,7 @@
        y="463.3046"
        id="rect418" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="626.83527"
        y="474.06989"
@@ -1291,12 +1274,11 @@
        y="463.3046"
        id="rect422" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="669.89624"
        y="474.06989"
-       id="text424"
-       sodipodi:linespacing="125%">EXTINT7</text>
+       id="text424">EXTINT7</text>
     <rect
        style="opacity:0.3;fill:#808080;stroke:#808080;stroke-width:0.89710402"
        height="10.765248"
@@ -1307,7 +1289,7 @@
        y="463.3046"
        id="rect426" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="712.95715"
        y="474.06989"
@@ -1322,12 +1304,11 @@
        y="463.3046"
        id="rect430" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="756.01825"
        y="474.06989"
-       id="text432"
-       sodipodi:linespacing="125%">SER3:1/5:1*</text>
+       id="text432">SER3:1/5:1*</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -1338,12 +1319,11 @@
        y="463.3046"
        id="rect434" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="799.07922"
        y="474.06989"
-       id="text436"
-       sodipodi:linespacing="125%">TC4:1/TCC0:5</text>
+       id="text436">TC4:1/TCC0:5</text>
     <rect
        style="opacity:0.1;fill:#0000ff;stroke:#0000ff;stroke-width:0.89710402"
        height="10.765248"
@@ -1354,12 +1334,11 @@
        y="463.3046"
        id="rect438" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="842.1402"
        y="474.06989"
-       id="text440"
-       sodipodi:linespacing="125%">USB/SOF 1KhZ</text>
+       id="text440">USB/SOF 1KhZ</text>
     <rect
        style="opacity:0.7;fill:#ffffff;stroke:#d3008b;stroke-width:0.89710402;stroke-opacity:1"
        height="10.765248"
@@ -1370,7 +1349,7 @@
        y="476.7612"
        id="rect442" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="540.7132"
        y="487.52643"
@@ -1385,7 +1364,7 @@
        y="476.7612"
        id="rect446" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="583.77423"
        y="487.52643"
@@ -1400,7 +1379,7 @@
        y="476.7612"
        id="rect450" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="626.83527"
        y="487.52643"
@@ -1415,12 +1394,11 @@
        y="476.7612"
        id="rect454" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="669.89624"
        y="487.52643"
-       id="text456"
-       sodipodi:linespacing="125%">EXTINT6</text>
+       id="text456">EXTINT6</text>
     <rect
        style="opacity:0.3;fill:#808080;stroke:#808080;stroke-width:0.89710402"
        height="10.765248"
@@ -1431,7 +1409,7 @@
        y="476.7612"
        id="rect458" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="712.95715"
        y="487.52643"
@@ -1446,12 +1424,11 @@
        y="476.7612"
        id="rect462" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="756.01825"
        y="487.52643"
-       id="text464"
-       sodipodi:linespacing="125%">SER3:0/5:0*</text>
+       id="text464">SER3:0/5:0*</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -1462,12 +1439,11 @@
        y="476.7612"
        id="rect466" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="799.07922"
        y="487.52643"
-       id="text468"
-       sodipodi:linespacing="125%">TC4:0/TCC0:4</text>
+       id="text468">TC4:0/TCC0:4</text>
     <rect
        style="opacity:0.3;fill:#62ff00;fill-opacity:1;stroke:#62ff00;stroke-width:0.89710402;stroke-opacity:1"
        height="10.765248"
@@ -1478,12 +1454,11 @@
        y="476.7612"
        id="rect470" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="842.1402"
        y="487.52643"
-       id="text472"
-       sodipodi:linespacing="125%">PCT:X10</text>
+       id="text472">PCT:X10</text>
     <rect
        style="opacity:0.8;fill:#ffffff;stroke:#007a00;stroke-width:0.89710402;stroke-opacity:1"
        height="10.765248"
@@ -1494,7 +1469,7 @@
        y="274.28326"
        id="rect502" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="415.64679"
        y="285.04849"
@@ -1509,7 +1484,7 @@
        y="274.28326"
        id="rect506" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="372.58582"
        y="285.04849"
@@ -1524,7 +1499,7 @@
        y="274.28326"
        id="rect510" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="329.52481"
        y="285.04849"
@@ -1539,7 +1514,7 @@
        y="274.28326"
        id="rect514" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="286.46381"
        y="285.04849"
@@ -1554,12 +1529,11 @@
        y="274.28326"
        id="rect518" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="243.40285"
        y="285.04849"
-       id="text520"
-       sodipodi:linespacing="125%">EXTINT10</text>
+       id="text520">EXTINT10</text>
     <rect
        style="opacity:0.3;fill:#808080;stroke:#808080;stroke-width:0.89710402"
        height="10.765248"
@@ -1570,16 +1544,13 @@
        y="274.28326"
        id="rect522" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
-       font-size="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       font-size="12px"
        x="200.34184"
        y="285.04849"
-       id="text524"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text524"><tspan
          sodipodi:role="line"
-         id="tspan4686">TX (Serial1)</tspan>
-    </text>
+         id="tspan889">TXO</tspan></text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -1590,12 +1561,11 @@
        y="274.28326"
        id="rect526" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="157.28084"
        y="285.04849"
-       id="text528"
-       sodipodi:linespacing="125%">SER0:2/2:2</text>
+       id="text528">SER0:2/2:2</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -1606,12 +1576,11 @@
        y="274.28326"
        id="rect530" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="114.21985"
        y="285.04849"
-       id="text532"
-       sodipodi:linespacing="125%">TCC1:0/0:2</text>
+       id="text532">TCC1:0/0:2</text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;stroke-opacity:1;fill-opacity:1"
        height="10.765248"
@@ -1622,7 +1591,7 @@
        y="274.28326"
        id="rect534" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="71.158852"
        y="285.04849"
@@ -1637,12 +1606,11 @@
        y="274.28326"
        id="rect538" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="28.097855"
        y="285.04849"
-       id="text540"
-       sodipodi:linespacing="125%">I2S/SCK[0]</text>
+       id="text540">I2S/SCK[0]</text>
     <rect
        style="opacity:0.8;fill:#ffffff;stroke:#007a00;stroke-width:0.89710402;stroke-opacity:1"
        height="10.765248"
@@ -1653,7 +1621,7 @@
        y="287.73984"
        id="rect542" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="415.64679"
        y="298.50507"
@@ -1668,7 +1636,7 @@
        y="287.73984"
        id="rect546" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="372.58582"
        y="298.50507"
@@ -1683,7 +1651,7 @@
        y="287.73984"
        id="rect550" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="329.52481"
        y="298.50507"
@@ -1698,7 +1666,7 @@
        y="287.73984"
        id="rect554" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="286.46381"
        y="298.50507"
@@ -1713,12 +1681,11 @@
        y="287.73984"
        id="rect558" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="243.40285"
        y="298.50507"
-       id="text560"
-       sodipodi:linespacing="125%">EXTINT11</text>
+       id="text560">EXTINT11</text>
     <rect
        style="opacity:0.3;fill:#808080;stroke:#808080;stroke-width:0.89710402"
        height="10.765248"
@@ -1729,16 +1696,13 @@
        y="287.73984"
        id="rect562" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
-       font-size="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       font-size="12px"
        x="200.34184"
        y="298.50507"
-       id="text564"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text564"><tspan
          sodipodi:role="line"
-         id="tspan4684">RX (Serial1)</tspan>
-    </text>
+         id="tspan887">RXI</tspan></text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -1749,12 +1713,11 @@
        y="287.73984"
        id="rect566" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="157.28084"
        y="298.50507"
-       id="text568"
-       sodipodi:linespacing="125%">SER0:3/2:3</text>
+       id="text568">SER0:3/2:3</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -1765,12 +1728,11 @@
        y="287.73984"
        id="rect570" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="114.21985"
        y="298.50507"
-       id="text572"
-       sodipodi:linespacing="125%">TCC1:1/0:3</text>
+       id="text572">TCC1:1/0:3</text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;stroke-opacity:1;fill-opacity:1"
        height="10.765248"
@@ -1781,7 +1743,7 @@
        y="287.73984"
        id="rect574" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="71.158852"
        y="298.50507"
@@ -1796,12 +1758,11 @@
        y="287.73984"
        id="rect578" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="28.097855"
        y="298.50507"
-       id="text580"
-       sodipodi:linespacing="125%">I2S/FS[0]</text>
+       id="text580">I2S/FS[0]</text>
     <rect
        style="opacity:0.3;fill:#ffffff;stroke:#000000;stroke-width:0.89710402"
        height="10.765248"
@@ -1812,7 +1773,7 @@
        y="301.19638"
        id="rect582" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="415.64679"
        y="311.96164"
@@ -1827,7 +1788,7 @@
        y="301.19638"
        id="rect586" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="372.58582"
        y="311.96164"
@@ -1842,7 +1803,7 @@
        y="314.65292"
        id="rect594" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="415.64679"
        y="325.41818"
@@ -1857,7 +1818,7 @@
        y="314.65292"
        id="rect598" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#ffffff"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#ffffff"
        font-size="12"
        x="372.58582"
        y="325.41818"
@@ -1872,7 +1833,7 @@
        y="328.1095"
        id="rect606" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="415.64679"
        y="338.87479"
@@ -1887,7 +1848,7 @@
        y="328.1095"
        id="rect610" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="372.58582"
        y="338.87479"
@@ -1902,7 +1863,7 @@
        y="328.1095"
        id="rect614" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="329.52481"
        y="338.87479"
@@ -1917,12 +1878,11 @@
        y="328.1095"
        id="rect618" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="286.46381"
        y="338.87479"
-       id="text620"
-       sodipodi:linespacing="125%">EXTINT14</text>
+       id="text620">EXTINT14</text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -1933,12 +1893,11 @@
        y="328.1095"
        id="rect622" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="243.40285"
        y="338.87479"
-       id="text624"
-       sodipodi:linespacing="125%">SER2:2/4:2*</text>
+       id="text624">SER2:2/4:2*</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -1949,12 +1908,11 @@
        y="328.1095"
        id="rect626" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="200.34184"
        y="338.87479"
-       id="text628"
-       sodipodi:linespacing="125%">TC3:0/TCC0:4</text>
+       id="text628">TC3:0/TCC0:4</text>
     <rect
        style="opacity:0.1;fill:#0000ff;stroke:#0000ff;stroke-width:0.89710402"
        height="10.765248"
@@ -1965,7 +1923,7 @@
        y="328.1095"
        id="rect630" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="157.28084"
        y="338.87479"
@@ -1980,7 +1938,7 @@
        y="341.56607"
        id="rect634" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="415.64679"
        y="352.33133"
@@ -1995,7 +1953,7 @@
        y="341.56607"
        id="rect638" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="372.58582"
        y="352.33133"
@@ -2010,7 +1968,7 @@
        y="341.56607"
        id="rect642" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="329.52481"
        y="352.33133"
@@ -2025,7 +1983,7 @@
        y="341.56607"
        id="rect646" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="286.46381"
        y="352.33133"
@@ -2040,12 +1998,11 @@
        y="341.56607"
        id="rect650" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="243.40285"
        y="352.33133"
-       id="text652"
-       sodipodi:linespacing="125%">EXTINT9</text>
+       id="text652">EXTINT9</text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -2056,12 +2013,11 @@
        y="341.56607"
        id="rect654" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="200.34184"
        y="352.33133"
-       id="text656"
-       sodipodi:linespacing="125%">SER0:1/2:1*</text>
+       id="text656">SER0:1/2:1*</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -2072,12 +2028,11 @@
        y="341.56607"
        id="rect658" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="157.28084"
        y="352.33133"
-       id="text660"
-       sodipodi:linespacing="125%">TCC0:1/1:3</text>
+       id="text660">TCC0:1/1:3</text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;fill-opacity:1;stroke-opacity:1"
        height="10.765248"
@@ -2088,7 +2043,7 @@
        y="341.56607"
        id="rect662" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="114.21985"
        y="352.33133"
@@ -2103,12 +2058,11 @@
        y="341.56607"
        id="rect666" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="71.158852"
        y="352.33133"
-       id="text668"
-       sodipodi:linespacing="125%">I2S/MCK[0]</text>
+       id="text668">I2S/MCK[0]</text>
     <rect
        style="opacity:0.7;fill:#ffffff;stroke:#d3008b;stroke-width:0.89710402;stroke-opacity:1"
        height="10.765248"
@@ -2119,7 +2073,7 @@
        y="355.02264"
        id="rect670" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="415.64679"
        y="365.78787"
@@ -2134,7 +2088,7 @@
        y="355.02264"
        id="rect674" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="372.58582"
        y="365.78787"
@@ -2149,7 +2103,7 @@
        y="355.02264"
        id="rect678" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="329.52481"
        y="365.78787"
@@ -2164,7 +2118,7 @@
        y="355.02264"
        id="rect682" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="286.46381"
        y="365.78787"
@@ -2179,12 +2133,11 @@
        y="355.02264"
        id="rect686" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="243.40285"
        y="365.78787"
-       id="text688"
-       sodipodi:linespacing="125%">NMI</text>
+       id="text688">NMI</text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -2195,12 +2148,11 @@
        y="355.02264"
        id="rect690" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="200.34184"
        y="365.78787"
-       id="text692"
-       sodipodi:linespacing="125%">SER0:0/2:0*</text>
+       id="text692">SER0:0/2:0*</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -2211,12 +2163,11 @@
        y="355.02264"
        id="rect694" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="157.28084"
        y="365.78787"
-       id="text696"
-       sodipodi:linespacing="125%">TCC0:0/1:2</text>
+       id="text696">TCC0:0/1:2</text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;fill-opacity:1;stroke-opacity:1"
        height="10.765248"
@@ -2227,7 +2178,7 @@
        y="355.02264"
        id="rect698" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="114.21985"
        y="365.78787"
@@ -2242,12 +2193,11 @@
        y="355.02264"
        id="rect702" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="71.158852"
        y="365.78787"
-       id="text704"
-       sodipodi:linespacing="125%">I2S/SD[1]</text>
+       id="text704">I2S/SD[1]</text>
     <rect
        style="opacity:0.7;fill:#ffffff;stroke:#d3008b;stroke-width:0.89710402;stroke-opacity:1"
        height="10.765248"
@@ -2258,7 +2208,7 @@
        y="368.47922"
        id="rect706" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="415.64679"
        y="379.24442"
@@ -2273,7 +2223,7 @@
        y="368.47922"
        id="rect710" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="372.58582"
        y="379.24442"
@@ -2288,7 +2238,7 @@
        y="368.47922"
        id="rect714" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="329.52481"
        y="379.24442"
@@ -2303,12 +2253,11 @@
        y="368.47922"
        id="rect718" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="286.46381"
        y="379.24442"
-       id="text720"
-       sodipodi:linespacing="125%">EXTINT15</text>
+       id="text720">EXTINT15</text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -2319,12 +2268,11 @@
        y="368.47922"
        id="rect722" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="243.40285"
        y="379.24442"
-       id="text724"
-       sodipodi:linespacing="125%">SER2:3/4:3</text>
+       id="text724">SER2:3/4:3</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -2335,12 +2283,11 @@
        y="368.47922"
        id="rect726" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="200.34184"
        y="379.24442"
-       id="text728"
-       sodipodi:linespacing="125%">TC3:1/TCC0:5</text>
+       id="text728">TC3:1/TCC0:5</text>
     <rect
        style="opacity:0.1;fill:#0000ff;stroke:#0000ff;stroke-width:0.89710402"
        height="10.765248"
@@ -2351,7 +2298,7 @@
        y="368.47922"
        id="rect730" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="157.28084"
        y="379.24442"
@@ -2366,7 +2313,7 @@
        y="381.93573"
        id="rect734" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="415.64679"
        y="392.70102"
@@ -2381,7 +2328,7 @@
        y="381.93573"
        id="rect738" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="372.58582"
        y="392.70102"
@@ -2396,7 +2343,7 @@
        y="381.93573"
        id="rect742" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="329.52481"
        y="392.70102"
@@ -2411,12 +2358,11 @@
        y="381.93573"
        id="rect746" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="286.46381"
        y="392.70102"
-       id="text748"
-       sodipodi:linespacing="125%">EXTINT4</text>
+       id="text748">EXTINT4</text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -2427,12 +2373,11 @@
        y="381.93573"
        id="rect750" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="243.40285"
        y="392.70102"
-       id="text752"
-       sodipodi:linespacing="125%">SER5:2/3:2</text>
+       id="text752">SER5:2/3:2</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -2443,12 +2388,13 @@
        y="381.93573"
        id="rect754" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="200.34184"
        y="392.70102"
-       id="text756"
-       sodipodi:linespacing="125%">TC7:0/TCC0:6</text>
+       id="text756"><tspan
+         sodipodi:role="line"
+         id="tspan839">TCC0:6</tspan></text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;stroke-opacity:1;fill-opacity:1"
        height="10.765248"
@@ -2459,7 +2405,7 @@
        y="381.93573"
        id="rect758" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="157.28084"
        y="392.70102"
@@ -2474,12 +2420,11 @@
        y="381.93573"
        id="rect762" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="114.21985"
        y="392.70102"
-       id="text764"
-       sodipodi:linespacing="125%">I2S/SCK[0]</text>
+       id="text764">I2S/SCK[0]</text>
     <rect
        style="opacity:0.7;fill:#ffffff;stroke:#d3008b;stroke-width:0.89710402;stroke-opacity:1"
        height="10.765248"
@@ -2490,7 +2435,7 @@
        y="395.3923"
        id="rect766" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="415.64679"
        y="406.15756"
@@ -2505,7 +2450,7 @@
        y="395.3923"
        id="rect770" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="372.58582"
        y="406.15756"
@@ -2520,7 +2465,7 @@
        y="395.3923"
        id="rect774" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="329.52481"
        y="406.15756"
@@ -2535,12 +2480,11 @@
        y="395.3923"
        id="rect778" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="286.46381"
        y="406.15756"
-       id="text780"
-       sodipodi:linespacing="125%">EXINIT5</text>
+       id="text780">EXINIT5</text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -2551,12 +2495,11 @@
        y="395.3923"
        id="rect782" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="243.40285"
        y="406.15756"
-       id="text784"
-       sodipodi:linespacing="125%">SER5:3/3:3</text>
+       id="text784">SER5:3/3:3</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -2567,12 +2510,13 @@
        y="395.3923"
        id="rect786" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="200.34184"
        y="406.15756"
-       id="text788"
-       sodipodi:linespacing="125%">TC7:1/TCC0:7</text>
+       id="text788"><tspan
+         sodipodi:role="line"
+         id="tspan841">TCC0:7</tspan></text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;stroke-opacity:1;fill-opacity:1"
        height="10.765248"
@@ -2583,7 +2527,7 @@
        y="395.3923"
        id="rect790" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="157.28084"
        y="406.15756"
@@ -2598,12 +2542,11 @@
        y="395.3923"
        id="rect794" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="114.21985"
        y="406.15756"
-       id="text796"
-       sodipodi:linespacing="125%">I2S/FS[0]</text>
+       id="text796">I2S/FS[0]</text>
     <rect
        style="opacity:0.8;fill:#ffffff;stroke:#0000d7;stroke-width:0.89710402;stroke-opacity:1"
        height="10.765248"
@@ -2614,7 +2557,7 @@
        y="408.84888"
        id="rect798" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="415.64679"
        y="419.61414"
@@ -2629,7 +2572,7 @@
        y="408.84888"
        id="rect802" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="372.58582"
        y="419.61414"
@@ -2644,7 +2587,7 @@
        y="408.84888"
        id="rect806" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="329.52481"
        y="419.61414"
@@ -2659,7 +2602,7 @@
        y="408.84888"
        id="rect810" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="286.46381"
        y="419.61414"
@@ -2674,12 +2617,11 @@
        y="408.84888"
        id="rect814" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="243.40285"
        y="419.61414"
-       id="text816"
-       sodipodi:linespacing="125%">EXTINT6</text>
+       id="text816">EXTINT6</text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -2690,12 +2632,11 @@
        y="408.84888"
        id="rect818" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="200.34184"
        y="419.61414"
-       id="text820"
-       sodipodi:linespacing="125%">SER0:2</text>
+       id="text820">SER0:2</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -2706,12 +2647,11 @@
        y="408.84888"
        id="rect822" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="157.28084"
        y="419.61414"
-       id="text824"
-       sodipodi:linespacing="125%">TCC1:0</text>
+       id="text824">TCC1:0</text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;fill-opacity:1;stroke-opacity:1"
        height="10.765248"
@@ -2722,7 +2662,7 @@
        y="408.84888"
        id="rect826" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="114.21985"
        y="419.61414"
@@ -2737,7 +2677,7 @@
        y="422.30545"
        id="rect834" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="415.64679"
        y="433.07068"
@@ -2752,7 +2692,7 @@
        y="422.30545"
        id="rect838" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="372.58582"
        y="433.07068"
@@ -2767,7 +2707,7 @@
        y="422.30545"
        id="rect842" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="329.52481"
        y="433.07068"
@@ -2782,7 +2722,7 @@
        y="422.30545"
        id="rect846" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="286.46381"
        y="433.07068"
@@ -2797,12 +2737,11 @@
        y="422.30545"
        id="rect850" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="243.40285"
        y="433.07068"
-       id="text852"
-       sodipodi:linespacing="125%">EXTINT7</text>
+       id="text852">EXTINT7</text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -2813,12 +2752,11 @@
        y="422.30545"
        id="rect854" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="200.34184"
        y="433.07068"
-       id="text856"
-       sodipodi:linespacing="125%">SER0:3</text>
+       id="text856">SER0:3</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -2829,12 +2767,11 @@
        y="422.30545"
        id="rect858" />
     <text
-       style="font-size:6.25px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="157.28084"
        y="433.07068"
-       id="text860"
-       sodipodi:linespacing="125%">TCC1:1</text>
+       id="text860">TCC1:1</text>
     <rect
        style="opacity:0.3;fill:#62ff00;stroke:#62ff00;stroke-width:0.89710402;fill-opacity:1;stroke-opacity:1"
        height="10.765248"
@@ -2845,7 +2782,7 @@
        y="422.30545"
        id="rect862" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="114.21985"
        y="433.07068"
@@ -2860,12 +2797,11 @@
        y="422.30545"
        id="rect866" />
     <text
-       style="font-size:7.5px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="71.158852"
        y="433.07068"
-       id="text868"
-       sodipodi:linespacing="125%">I2S/SD[0]</text>
+       id="text868">I2S/SD[0]</text>
     <rect
        style="opacity:0.8;fill:#ffffff;stroke:#f2f400;stroke-width:0.89710402;stroke-opacity:1"
        height="10.765248"
@@ -2876,7 +2812,7 @@
        y="462.9559"
        id="rect874" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="440.54578"
        y="473.72113"
@@ -2891,7 +2827,7 @@
        y="462.9559"
        id="rect878" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="397.4848"
        y="473.72113"
@@ -2906,12 +2842,11 @@
        y="462.9559"
        id="rect882" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="354.4238"
        y="473.72113"
-       id="text884"
-       sodipodi:linespacing="125%">EXTINT15</text>
+       id="text884">EXTINT15</text>
     <rect
        style="opacity:0.8;fill:#ffffff;stroke:#d40000;stroke-width:0.89710402;stroke-opacity:1"
        height="10.765248"
@@ -2922,7 +2857,7 @@
        y="476.41245"
        id="rect890" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="440.54578"
        y="487.17767"
@@ -2937,7 +2872,7 @@
        y="476.41245"
        id="rect894" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="397.4848"
        y="487.17767"
@@ -2952,7 +2887,7 @@
        y="476.41245"
        id="rect898" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="354.4238"
        y="487.17767"
@@ -2967,12 +2902,11 @@
        y="476.41245"
        id="rect902" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="311.36279"
        y="487.17767"
-       id="text904"
-       sodipodi:linespacing="125%">EXTINT3</text>
+       id="text904">EXTINT3</text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.89710402"
        height="10.765248"
@@ -2983,41 +2917,24 @@
        y="476.41245"
        id="rect906" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="268.30185"
        y="487.17767"
-       id="text908"
-       sodipodi:linespacing="125%">SER5:1</text>
+       id="text908">SER5:1</text>
     <rect
-       style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
+       style="opacity:0.3;fill:#62ff00;fill-opacity:1;stroke:#62ff00;stroke-width:0.897104;stroke-opacity:1"
        height="10.765248"
        rx="0.89710402"
        ry="0.89710402"
        width="40.369682"
-       x="224.34372"
-       y="476.41245"
-       id="rect910" />
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       font-size="9"
-       x="225.24083"
-       y="487.17767"
-       id="text912"
-       sodipodi:linespacing="125%">TC6:1</text>
-    <rect
-       style="opacity:0.3;fill:#62ff00;fill-opacity:1;stroke:#62ff00;stroke-width:0.89710402;stroke-opacity:1"
-       height="10.765248"
-       rx="0.89710402"
-       ry="0.89710402"
-       width="40.369682"
-       x="181.28273"
+       x="224.40773"
        y="476.41245"
        id="rect914" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
-       x="182.17982"
+       x="225.30482"
        y="487.17767"
        id="text916">PTC:Y9</text>
     <rect
@@ -3030,7 +2947,7 @@
        y="489.86902"
        id="rect922" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="440.54578"
        y="500.63428"
@@ -3045,7 +2962,7 @@
        y="489.86902"
        id="rect926" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="397.4848"
        y="500.63428"
@@ -3060,7 +2977,7 @@
        y="489.86902"
        id="rect930" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="354.4238"
        y="500.63428"
@@ -3075,12 +2992,11 @@
        y="489.86902"
        id="rect934" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="311.36279"
        y="500.63428"
-       id="text936"
-       sodipodi:linespacing="125%">EXTINT1</text>
+       id="text936">EXTINT1</text>
     <rect
        style="opacity:0.3;fill:#808080;stroke:#808080;stroke-width:0.89710402"
        height="10.765248"
@@ -3091,7 +3007,7 @@
        y="489.86902"
        id="rect938" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="268.30185"
        y="500.63428"
@@ -3106,12 +3022,11 @@
        y="489.86902"
        id="rect942" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="225.24083"
        y="500.63428"
-       id="text944"
-       sodipodi:linespacing="125%">SER1:1/3:1*</text>
+       id="text944">SER1:1/3:1*</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500;stroke-width:0.89710402"
        height="10.765248"
@@ -3122,12 +3037,11 @@
        y="489.86902"
        id="rect946" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="9"
        x="182.17982"
        y="500.63428"
-       id="text948"
-       sodipodi:linespacing="125%">TCC2:1/0:7</text>
+       id="text948">TCC2:1/0:7</text>
     <rect
        style="opacity:0.3;fill:#62ff00;fill-opacity:1;stroke:#62ff00;stroke-width:0.89710402;stroke-opacity:1"
        height="10.765248"
@@ -3138,77 +3052,70 @@
        y="489.86902"
        id="rect950" />
     <text
-       style="font-size:10.7652483px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.7652px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="139.11884"
        y="500.63428"
        id="text952">PTC:X5</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
-       font-size="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       font-size="12px"
        x="176.35086"
        y="30.40007"
-       id="text976"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text976"><tspan
          sodipodi:role="line"
-         id="tspan7028">SAMD21 Mini Breakout (DEV-13664 )</tspan>
-    </text>
+         id="tspan7028"
+         x="176.35086"
+         y="30.40007"
+         style="font-size:30px;line-height:1.25">SAMD21 Mini Breakout (DEV-13664 )</tspan></text>
     <text
-       style="font-size:12px;font-family:Montserrat;fill:#000000"
+       style="font-size:12px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="176.35086"
        y="47.40007"
        id="text978">Arduino Zero compatible</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="461.41681"
        y="155.35194"
-       id="text1022"
-       sodipodi:linespacing="125%">RX (PIN_LED_RXL): Yellow</text>
+       id="text1022">RX (PIN_LED_RXL): Yellow</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="481.20544"
        y="249.48032"
-       id="text1038"
-       sodipodi:linespacing="125%">Micro A/B USB</text>
+       id="text1038">Micro A/B USB</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="482.11203"
        y="441.52228"
-       id="text1042"
-       sodipodi:linespacing="125%">Reset Button</text>
+       id="text1042">Reset Button</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="415.71201"
        y="267.97"
-       id="text1076"
-       sodipodi:linespacing="125%">Power LED</text>
+       id="text1076">Power LED</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="558.53003"
        y="267.07001"
-       id="text1078"
-       sodipodi:linespacing="125%">User (D13) LED</text>
+       id="text1078">User (D13) LED</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="466.76886"
        y="450"
-       id="text1080"
-       sodipodi:linespacing="125%">TX LED</text>
+       id="text1080">TX LED</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="522.01605"
        y="450"
-       id="text1082"
-       sodipodi:linespacing="125%">RX LED</text>
+       id="text1082">RX LED</text>
     <rect
        style="opacity:0.3;fill:#afafe9;fill-opacity:1;stroke:#afafe9;stroke-width:1.09269774;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5909"
@@ -3229,15 +3136,15 @@
        ry="0.51385665" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="124.79992"
        y="146.63583"
-       id="text4916-4-6"
-       sodipodi:linespacing="125%"><tspan
+       id="text4916-4-6"><tspan
          sodipodi:role="line"
          id="tspan4918-3-9"
          x="124.79992"
-         y="146.63583">B</tspan></text>
+         y="146.63583"
+         style="font-size:10px;line-height:1.25">B</tspan></text>
     <rect
        style="opacity:0.3;fill:#ffffff;stroke:#000000"
        height="12"
@@ -3248,7 +3155,7 @@
        y="15.459867"
        id="rect6" />
     <text
-       style="font-size:12px;font-family:Montserrat;fill:#000000"
+       style="font-size:12px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="19.605412"
        y="27.459869"
@@ -3263,7 +3170,7 @@
        y="35.459869"
        id="rect10" />
     <text
-       style="font-size:12px;font-family:Montserrat;fill:#000000"
+       style="font-size:12px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="19.605412"
        y="47.459869"
@@ -3278,7 +3185,7 @@
        y="55.459869"
        id="rect14" />
     <text
-       style="font-size:12px;font-family:Montserrat;fill:#ffffff"
+       style="font-size:12px;line-height:0%;font-family:Montserrat;fill:#ffffff"
        font-size="12"
        x="19.605412"
        y="67.459869"
@@ -3293,7 +3200,7 @@
        y="75.459869"
        id="rect18" />
     <text
-       style="font-size:12px;font-family:Montserrat;fill:#000000"
+       style="font-size:12px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="19.605412"
        y="87.459869"
@@ -3308,12 +3215,11 @@
        y="95.459869"
        id="rect22" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="19.605412"
        y="107.45986"
-       id="text24"
-       sodipodi:linespacing="125%">Arduino</text>
+       id="text24">Arduino</text>
     <rect
        style="opacity:0.4;fill:#0000ff;stroke:#0000ff"
        height="12"
@@ -3324,7 +3230,7 @@
        y="115.45986"
        id="rect26" />
     <text
-       style="font-size:12px;font-family:Montserrat;fill:#000000"
+       style="font-size:12px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="19.605412"
        y="127.45986"
@@ -3339,7 +3245,7 @@
        y="135.45987"
        id="rect30" />
     <text
-       style="font-size:12px;font-family:Montserrat;fill:#000000"
+       style="font-size:12px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="79.621353"
        y="147.45987"
@@ -3354,18 +3260,16 @@
        y="13.63187"
        id="rect34" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       font-size="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       font-size="12px"
        x="79.6054"
        y="25.631866"
-       id="text36"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text36"><tspan
          y="25.631866"
          x="79.6054"
          sodipodi:role="line"
-         id="tspan4996">Interupts</tspan>
-    </text>
+         id="tspan4996"
+         style="font-size:7.5px;line-height:1.25">Interupts</tspan></text>
     <rect
        style="opacity:0.3;fill:#808080;stroke:#808080"
        height="12"
@@ -3376,7 +3280,7 @@
        y="35.459869"
        id="rect38" />
     <text
-       style="font-size:12px;font-family:Montserrat;fill:#000000"
+       style="font-size:12px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="79.6054"
        y="47.459869"
@@ -3391,12 +3295,11 @@
        y="55.459869"
        id="rect42" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="79.6054"
        y="67.459869"
-       id="text44"
-       sodipodi:linespacing="125%">Serial Com</text>
+       id="text44">Serial Com</text>
     <rect
        style="opacity:0.5;fill:#ffa500;stroke:#ffa500"
        height="12"
@@ -3407,7 +3310,7 @@
        y="75.459869"
        id="rect46" />
     <text
-       style="font-size:9px;font-family:Montserrat;fill:#000000"
+       style="font-size:9px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="9"
        x="79.6054"
        y="87.459869"
@@ -3422,7 +3325,7 @@
        y="95.459869"
        id="rect50" />
     <text
-       style="font-size:12px;font-family:Montserrat;fill:#000000"
+       style="font-size:12px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="79.6054"
        y="107.45986"
@@ -3437,7 +3340,7 @@
        y="115.45986"
        id="rect54" />
     <text
-       style="font-size:12px;font-family:Montserrat;fill:#000000"
+       style="font-size:12px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="79.6054"
        y="127.45986"
@@ -3452,144 +3355,138 @@
        y="135.45984"
        id="rect54-6" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       font-size="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       font-size="12px"
        x="19.605366"
        y="147.45984"
-       id="text56-7"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text56-7"><tspan
          sodipodi:role="line"
          id="tspan5872"
          x="19.605366"
-         y="147.45984">DAC</tspan>
-    </text>
+         y="147.45984"
+         style="font-size:12px;line-height:1.25">DAC</tspan></text>
     <text
-       style="font-size:10.51510906px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.5151px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="152.31439"
        y="84.136826"
        id="text1436">TC - Timer Counter</text>
     <text
-       style="font-size:10.51510906px;font-family:Montserrat;fill:#000000"
+       style="font-size:10.5151px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="152.31439"
        y="99.033234"
        id="text1438">TCC - Timer Counter - Controller</text>
     <text
-       style="font-size:10.5151248px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
-       font-size="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       font-size="12px"
        x="152.31439"
        y="113.92963"
-       id="text1440"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text1440"><tspan
          sodipodi:role="line"
-         id="tspan7269">PTC - Peripheral Touch Controller</tspan>
-    </text>
+         id="tspan7269"
+         x="152.31439"
+         y="113.92963"
+         style="font-size:10.5151px;line-height:1.25">PTC - Peripheral Touch Controller</tspan></text>
     <text
-       style="font-size:10.5151248px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
-       font-size="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       font-size="12px"
        x="152.31439"
        y="128.82603"
-       id="text1442"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text1442"><tspan
          sodipodi:role="line"
-         id="tspan7271">NMI - External Non-Maskable Interupt</tspan>
-    </text>
+         id="tspan7271"
+         x="152.31439"
+         y="128.82603"
+         style="font-size:10.5151px;line-height:1.25">NMI - External Non-Maskable Interupt</tspan></text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.51511002px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       font-size="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       font-size="12px"
        x="152.31439"
        y="143.72244"
-       id="text1444"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text1444"><tspan
          sodipodi:role="line"
          id="tspan4847"
          x="152.31439"
-         y="143.72244">Pin can only be A,B,C,D,E,F,G or H at any time</tspan>
-    </text>
+         y="143.72244"
+         style="font-size:10.5151px;line-height:1.25">Pin can only be A,B,C,D,E,F,G or H at any time</tspan></text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.51511002px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-       font-size="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       font-size="12px"
        x="152.31439"
        y="158.61885"
-       id="text1446"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text1446"><tspan
          sodipodi:role="line"
          id="tspan4845"
          x="152.31439"
-         y="158.61885">Selecting B disables digital control</tspan>
-    </text>
+         y="158.61885"
+         style="font-size:10.5151px;line-height:1.25">Selecting B disables digital control</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="126.55456"
        y="24.635826"
-       id="text4916"
-       sodipodi:linespacing="125%"><tspan
+       id="text4916"><tspan
          sodipodi:role="line"
          id="tspan4970"
          x="126.55456"
-         y="24.635826">A</tspan></text>
+         y="24.635826"
+         style="font-size:10px;line-height:1.25">A</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="126.55456"
        y="66.635826"
-       id="text4916-6"
-       sodipodi:linespacing="125%"><tspan
+       id="text4916-6"><tspan
          sodipodi:role="line"
          id="tspan4972"
          x="126.55456"
-         y="66.635826">C/D</tspan></text>
+         y="66.635826"
+         style="font-size:10px;line-height:1.25">C/D</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="126.79992"
        y="86.635826"
-       id="text4916-0"
-       sodipodi:linespacing="125%"><tspan
+       id="text4916-0"><tspan
          sodipodi:role="line"
          id="tspan4974"
          x="126.79992"
-         y="86.635826">E/F</tspan></text>
+         y="86.635826"
+         style="font-size:10px;line-height:1.25">E/F</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="124.79992"
        y="106.63582"
-       id="text4916-4"
-       sodipodi:linespacing="125%"><tspan
+       id="text4916-4"><tspan
          sodipodi:role="line"
          id="tspan4918-3"
          x="124.79992"
-         y="106.63582">B</tspan></text>
+         y="106.63582"
+         style="font-size:10px;line-height:1.25">B</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="125.21983"
        y="125.70809"
-       id="text4916-8"
-       sodipodi:linespacing="125%"><tspan
+       id="text4916-8"><tspan
          sodipodi:role="line"
          id="tspan4976"
          x="125.21983"
-         y="125.70809">G/H</tspan></text>
+         y="125.70809"
+         style="font-size:10px;line-height:1.25">G/H</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="13.406128"
        y="161.66618"
-       id="text4998"
-       sodipodi:linespacing="125%"><tspan
+       id="text4998"><tspan
          sodipodi:role="line"
          id="tspan4682"
          x="13.406128"
-         y="161.66618">8-bit PWM pins maked with ~</tspan></text>
+         y="161.66618"
+         style="font-size:8.75px;line-height:1.25">8-bit PWM pins maked with ~</tspan></text>
     <rect
        style="opacity:0.3;fill:#c6afe9;fill-opacity:1;stroke:#afafe9;stroke-width:1.00777388;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5943"
@@ -3601,62 +3498,71 @@
        ry="0.80970234" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9879179px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="801.23065"
        y="43.611729"
-       id="text5947"
-       sodipodi:linespacing="125%"><tspan
+       id="text5947"><tspan
          sodipodi:role="line"
          id="tspan5949"
          x="801.23065"
-         y="43.611729">Programming Header</tspan></text>
+         y="43.611729"
+         style="font-size:11.9879px;line-height:1.25">Programming Header</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9879179px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="802.29584"
        y="65.979431"
-       id="text5951"
-       sodipodi:linespacing="125%"><tspan
+       id="text5951"><tspan
          sodipodi:role="line"
          id="tspan5963"
          x="802.29584"
-         y="65.979431">1. VCC 3.3V</tspan><tspan
+         y="65.979431"
+         style="font-size:11.9879px;line-height:1.25">1. VCC 3.3V</tspan><tspan
          sodipodi:role="line"
          id="tspan5965"
          x="802.29584"
-         y="80.964325">2. SWEDIO/TMS</tspan><tspan
+         y="80.964325"
+         style="font-size:11.9879px;line-height:1.25">2. SWEDIO/TMS</tspan><tspan
          sodipodi:role="line"
          id="tspan5967"
          x="802.29584"
-         y="95.949226">3. GND</tspan><tspan
+         y="95.949226"
+         style="font-size:11.9879px;line-height:1.25">3. GND</tspan><tspan
          sodipodi:role="line"
          id="tspan5969"
          x="802.29584"
-         y="110.93412">4. SWDCLK/TCK</tspan><tspan
+         y="110.93412"
+         style="font-size:11.9879px;line-height:1.25">4. SWDCLK/TCK</tspan><tspan
          sodipodi:role="line"
          id="tspan5971"
          x="802.29584"
-         y="125.91902">5. GND</tspan><tspan
+         y="125.91902"
+         style="font-size:11.9879px;line-height:1.25">5. GND</tspan><tspan
          sodipodi:role="line"
          id="tspan5973"
          x="802.29584"
-         y="140.90393">6. SWO/TDO</tspan><tspan
+         y="140.90392"
+         style="font-size:11.9879px;line-height:1.25">6. SWO/TDO</tspan><tspan
          sodipodi:role="line"
          id="tspan5975"
          x="802.29584"
-         y="155.88882">7. Key</tspan><tspan
+         y="155.88881"
+         style="font-size:11.9879px;line-height:1.25">7. Key</tspan><tspan
          sodipodi:role="line"
          id="tspan5977"
          x="802.29584"
-         y="170.87372">8. NC/TDI</tspan><tspan
+         y="170.87372"
+         style="font-size:11.9879px;line-height:1.25">8. NC/TDI</tspan><tspan
          sodipodi:role="line"
          id="tspan5979"
          x="802.29584"
-         y="185.85861">9. GNDDTCT</tspan><tspan
+         y="185.85861"
+         style="font-size:11.9879px;line-height:1.25">9. GNDDTCT</tspan><tspan
          sodipodi:role="line"
          id="tspan5981"
          x="802.29584"
-         y="200.84352">10. Nreset</tspan></text>
+         y="200.84351"
+         style="font-size:11.9879px;line-height:1.25">10. Nreset</tspan></text>
     <rect
        style="opacity:0.15;fill:#ff8080;fill-opacity:1;stroke:#ff8080;stroke-width:1.00371408;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4851"
@@ -3782,49 +3688,49 @@
        d="m 880.97564,688.53377 c -5.37337,0 -9.92497,1.8965 -13.65476,5.68949 -3.85617,3.85622 -5.75267,8.47102 -5.75267,13.78121 0,5.31019 1.8965,9.86177 5.75267,13.65476 3.79299,3.85618 8.34458,5.75268 13.65476,5.75268 5.37341,0 9.98823,-1.95968 13.90763,-5.81591 3.72976,-3.60334 5.56306,-8.15492 5.56306,-13.59153 0,-5.43664 -1.8965,-10.05142 -5.68948,-13.78121 -3.72979,-3.79299 -8.34458,-5.68949 -13.78121,-5.68949 z m 0.0633,3.54015 c 4.42516,0 8.15492,1.5172 11.18931,4.678 3.16084,3.0344 4.67804,6.82738 4.67804,11.25255 0,4.42513 -1.5172,8.15493 -4.55159,11.12609 -3.22404,3.16082 -7.01703,4.74124 -11.31576,4.74124 -4.36194,0 -8.0917,-1.58042 -11.25251,-4.74124 -3.16085,-3.09762 -4.74124,-6.82737 -4.74124,-11.12609 0,-4.29874 1.64361,-8.09173 4.80444,-11.25255 3.03439,-3.1608 6.76418,-4.678 11.18931,-4.678 z"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <rect
-       style="opacity:0.8;fill:#ffffff;stroke:#f2f400;stroke-width:0.85595244;stroke-opacity:1"
-       height="10.806398"
-       rx="0.81357884"
-       ry="0.90053326"
-       width="36.61105"
-       x="180.42793"
-       y="709.76538"
+       style="opacity:0.8;fill:#ffffff;stroke:#f2f400;stroke-width:0.815823;stroke-opacity:1"
+       height="10.846528"
+       rx="0.73634565"
+       ry="0.90387744"
+       width="33.135555"
+       x="187.90787"
+       y="709.74524"
        id="rect874-8" />
     <rect
-       style="opacity:0.7;fill:#ffffff;stroke:#d3008b;stroke-width:0.72621;stroke-opacity:1"
-       height="10.936141"
-       rx="0.57868415"
-       ry="0.91134495"
-       width="26.040791"
-       x="218.26305"
-       y="709.7002"
+       style="opacity:0.7;fill:#ffffff;stroke:#d3008b;stroke-width:0.67764;stroke-opacity:1"
+       height="10.984711"
+       rx="0.50163847"
+       ry="0.91539246"
+       width="22.573736"
+       x="226.67627"
+       y="709.6759"
        id="rect706-2" />
     <rect
-       style="opacity:0.8;fill:#ffffff;stroke:#007a00;stroke-width:0.82648134;stroke-opacity:1"
-       height="10.83587"
-       rx="0.75645596"
-       ry="0.90298915"
-       width="34.04052"
-       x="9.25424"
-       y="722.75085"
+       style="opacity:0.8;fill:#ffffff;stroke:#007a00;stroke-width:0.796066;stroke-opacity:1"
+       height="10.866284"
+       rx="0.69984019"
+       ry="0.90552372"
+       width="31.492809"
+       x="9.2390327"
+       y="722.73566"
        id="rect606-2" />
     <rect
-       style="opacity:0.8;fill:#ffffff;stroke:#0000d7;stroke-width:0.72220308;stroke-opacity:1"
-       height="10.940145"
-       rx="0.57210642"
-       ry="0.91167885"
-       width="25.744797"
-       x="44.177097"
-       y="722.69818"
+       style="opacity:0.8;fill:#ffffff;stroke:#0000d7;stroke-width:0.683399;stroke-opacity:1"
+       height="10.978949"
+       rx="0.51046878"
+       ry="0.91491252"
+       width="22.971102"
+       x="46.970196"
+       y="722.67877"
        id="rect798-9" />
     <rect
-       style="opacity:0.8;fill:#ffffff;stroke:#d40000;stroke-width:0.65892959;stroke-opacity:1"
-       height="11.003421"
-       rx="0.47351259"
-       ry="0.91695172"
-       width="21.308071"
-       x="92.929474"
-       y="722.66687"
+       style="opacity:0.8;fill:#ffffff;stroke:#d40000;stroke-width:0.637766;stroke-opacity:1"
+       height="11.024585"
+       rx="0.4427329"
+       ry="0.91871536"
+       width="19.922985"
+       x="98.075142"
+       y="722.65631"
        id="rect86-9" />
     <rect
        style="opacity:0.134;fill:#fe8100;fill-opacity:1;stroke:#fe8100;stroke-width:0.972;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3841,193 +3747,173 @@
      id="layer3"
      inkscape:label="Text">
     <text
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="461.41681"
        y="87.351929"
-       id="text1014"
-       sodipodi:linespacing="125%">LEDs</text>
+       id="text1014">LEDs</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="461.41681"
        y="104.35193"
-       id="text1016"
-       sodipodi:linespacing="125%">Power: Red</text>
+       id="text1016">Power: Red</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="461.41681"
        y="121.35193"
-       id="text1018"
-       sodipodi:linespacing="125%">D13 (PIN_LED_13): Blue</text>
+       id="text1018">D13 (PIN_LED_13): Blue</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="461.41681"
        y="138.35194"
-       id="text1020"
-       sodipodi:linespacing="125%">TX (PIN_LED_TXL): Green</text>
+       id="text1020">TX (PIN_LED_TXL): Green</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="524.09357"
        y="619.61609"
-       id="text1026"
-       sodipodi:linespacing="125%">Serial</text>
+       id="text1026">Serial</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="524.09357"
        y="636.61609"
-       id="text1028"
-       sodipodi:linespacing="125%">USB: SerialUSB</text>
+       id="text1028">USB: SerialUSB</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="524.09357"
        y="653.61609"
-       id="text1030"
-       sodipodi:linespacing="125%">Hardware Serial: Serial1</text>
+       id="text1030">Hardware Serial: Serial1</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="266.48694"
        y="617.11816"
-       id="text994"
-       sodipodi:linespacing="125%">SamD21G18</text>
+       id="text994">SamD21G18</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="266.48694"
        y="634.11816"
-       id="text996"
-       sodipodi:linespacing="125%">VCC:1.62-3.63V</text>
+       id="text996">VCC:1.62-3.63V</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="266.48694"
        y="651.11816"
-       id="text998"
-       sodipodi:linespacing="125%">Arm Cortex-M0 + (32-bit)</text>
+       id="text998">Arm Cortex-M0 + (32-bit)</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="266.48694"
        y="668.11816"
-       id="text1000"
-       sodipodi:linespacing="125%">Flash Memory: 256KB</text>
+       id="text1000">Flash Memory: 256KB</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="266.48694"
        y="753.11816"
-       id="text1010"
-       sodipodi:linespacing="125%">USB 2.1 with USB host capability</text>
+       id="text1010">USB 2.1 with USB host capability</text>
     <text
-       style="font-size:10px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="9.989871"
        y="627.12854"
-       id="text982"
-       sodipodi:linespacing="125%">Power</text>
+       id="text982">Power</text>
     <text
-       style="font-size:10px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="9.989871"
        y="644.12854"
-       id="text984"
-       sodipodi:linespacing="125%">RAW: 3.5V-6.0V</text>
+       id="text984">RAW: 3.5V-6.0V</text>
     <text
-       style="font-size:10px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="9.989871"
        y="661.1286"
-       id="text986"
-       sodipodi:linespacing="125%">VCC: 600mA @3.3V</text>
+       id="text986">VCC: 600mA @3.3V</text>
     <text
-       style="font-size:10px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
-       font-size="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       font-size="12px"
        x="9.989871"
        y="678.1286"
-       id="text988"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text988"><tspan
          sodipodi:role="line"
-         id="tspan7081">Each pin is 3.3V tolerant and can source/sink </tspan>
-      <tspan
+         id="tspan7081"
+         x="9.989871"
+         y="678.1286"
+         style="font-size:10px;line-height:1.25">Each pin is 3.3V tolerant and can source/sink</tspan><tspan
          sodipodi:role="line"
-         id="tspan7083">no more than 7mA/10mA</tspan>
-    </text>
+         id="tspan7083"
+         x="9.989871"
+         y="690.6286"
+         style="font-size:10px;line-height:1.25">no more than 7mA/10mA</tspan></text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
-       font-size="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       font-size="12px"
        x="9.989871"
        y="706.32898"
-       id="text990"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text990"><tspan
          sodipodi:role="line"
          id="tspan7075"
          x="9.989871"
-         y="706.32898">Each cluster of I/O pins can source 46mA and</tspan>
-      <tspan
+         y="706.32898"
+         style="font-size:10px;line-height:1.25">Each cluster of I/O pins can source 46mA and</tspan><tspan
          sodipodi:role="line"
          id="tspan7077"
          x="9.989871"
-         y="721.32898">sink 65mA. Clusters are defined as Yellow, Pink,</tspan>
-      <tspan
+         y="718.82898"
+         style="font-size:10px;line-height:1.25">sink 65mA. Clusters are defined as Yellow, Pink,</tspan><tspan
          sodipodi:role="line"
          id="tspan7079"
          x="9.989871"
-         y="736.32898">Green, Blue, and Red outlines.</tspan>
-    </text>
+         y="731.32898"
+         style="font-size:10px;line-height:1.25">Green, Blue, and Red outlines.</tspan></text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="266.48694"
        y="685.11816"
-       id="text1002"
-       sodipodi:linespacing="125%">SRAM: 32KB</text>
+       id="text1002">SRAM: 32KB</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="266.48694"
        y="702.11816"
-       id="text1004"
-       sodipodi:linespacing="125%">ADC: 12-bit</text>
+       id="text1004">ADC: 12-bit</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="266.48694"
        y="719.11816"
-       id="text1006"
-       sodipodi:linespacing="125%">48MHz</text>
+       id="text1006">48MHz</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="266.48694"
        y="736.11816"
-       id="text1008"
-       sodipodi:linespacing="125%">RTC</text>
+       id="text1008">RTC</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
        font-size="12"
        x="524.09357"
        y="670.61609"
-       id="text1032"
-       sodipodi:linespacing="125%">Only Ports with * can be configured to do I2C</text>
+       id="text1032">Only Ports with * can be configured to do I2C</text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#000000;"
-       font-size="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       font-size="12px"
        x="524.09357"
        y="687.61609"
-       id="text1034"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text1034"><tspan
          sodipodi:role="line"
-         id="tspan7085">USB host: Set PIN_USB_HOST_ENABLE high</tspan>
-    </text>
+         id="tspan7085"
+         x="524.09357"
+         y="687.61609"
+         style="font-size:10px;line-height:1.25">USB host: Set PIN_USB_HOST_ENABLE high</tspan></text>
     <image
        y="142.76712"
        x="873.17773"
@@ -4038,50 +3924,50 @@
        width="83.762856" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.37916088px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="883.28827"
        y="172.26965"
-       id="text7162"
-       sodipodi:linespacing="125%"><tspan
+       id="text7162"><tspan
          sodipodi:role="line"
          id="tspan7164"
          x="883.28827"
-         y="172.26965">1 3 5 7 9</tspan></text>
+         y="172.26965"
+         style="font-size:14.3792px;line-height:1.25">1 3 5 7 9</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.92813969px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="884.10785"
        y="157.44165"
-       id="text7166"
-       sodipodi:linespacing="125%"><tspan
+       id="text7166"><tspan
          sodipodi:role="line"
          id="tspan7168"
          x="884.10785"
-         y="157.44165">2 4 6 8 </tspan></text>
+         y="157.44165"
+         style="font-size:13.9281px;line-height:1.25">2 4 6 8 </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.20237637px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="940.47504"
        y="155.83521"
-       id="text7170"
-       sodipodi:linespacing="125%"><tspan
+       id="text7170"><tspan
          sodipodi:role="line"
          id="tspan7172"
          x="940.47504"
-         y="155.83521">10</tspan></text>
+         y="155.83521"
+         style="font-size:10.2024px;line-height:1.25">10</tspan></text>
     <text
-       style="font-size:12.00000048px;font-family:Montserrat;fill:#000000;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
-       font-size="12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       font-size="12px"
        x="28.026159"
        y="217.37352"
-       id="text1070"
-       sodipodi:linespacing="125%">
-      <tspan
+       id="text1070"><tspan
          sodipodi:role="line"
-         id="tspan7267">SJ1 - on back of board</tspan>
-    </text>
+         id="tspan7267"
+         x="28.026159"
+         y="217.37352"
+         style="font-size:12px;line-height:1.25">SJ1 - on back of board</tspan></text>
     <text
-       style="font-size:12px;font-family:Montserrat;fill:#000000"
+       style="font-size:12px;line-height:0%;font-family:Montserrat;fill:#000000"
        font-size="12"
        x="28.026159"
        y="234.37352"
