@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="11in"
    height="8.5in"
    viewBox="0 0 279.4 215.9"
    version="1.1"
    id="svg5560"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="ThingPlusSamD51.svg">
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="ThingPlusSamD51b.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs5554" />
   <sodipodi:namedview
@@ -27,17 +27,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.8812861"
-     inkscape:cx="349.58409"
-     inkscape:cy="381.39829"
+     inkscape:cx="350.05658"
+     inkscape:cy="381.82833"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     units="in" />
+     units="in"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5557">
     <rdf:RDF>
@@ -46,7 +49,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -143,7 +145,7 @@
        y="112.063" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="25.899443"
        y="134"
        id="text8689"><tspan
@@ -151,10 +153,10 @@
          id="tspan8687"
          x="25.899443"
          y="134"
-         style="stroke-width:0.26458332">SWDIO</tspan></text>
+         style="stroke-width:0.264583">SWDIO</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="26.111732"
        y="138.56425"
        id="text8693"><tspan
@@ -162,7 +164,7 @@
          id="tspan8691"
          x="26.111732"
          y="138.56425"
-         style="stroke-width:0.26458332">SWDCLK</tspan></text>
+         style="stroke-width:0.264583">SWDCLK</tspan></text>
   </g>
   <g
      inkscape:label="Text"
@@ -179,7 +181,7 @@
        y="135.27283"
        id="rect56" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="139.52336"
@@ -194,7 +196,7 @@
        y="135.27283"
        id="rect60" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="139.52336"
@@ -209,7 +211,7 @@
        y="135.27283"
        id="rect64" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="191.93735"
        y="139.52336"
@@ -224,7 +226,7 @@
        y="135.27283"
        id="rect68" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="208.93938"
        y="139.52336"
@@ -239,7 +241,7 @@
        y="135.27283"
        id="rect72" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="225.94141"
        y="139.52336"
@@ -254,7 +256,7 @@
        y="135.27283"
        id="rect76" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="242.94344"
        y="139.52336"
@@ -269,7 +271,7 @@
        y="135.27283"
        id="rect80" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="259.94547"
        y="139.52336"
@@ -284,7 +286,7 @@
        y="140.58598"
        id="rect84" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="144.83647"
@@ -299,7 +301,7 @@
        y="140.58598"
        id="rect88" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="144.83647"
@@ -314,7 +316,7 @@
        y="140.58598"
        id="rect92" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="191.93735"
        y="144.83647"
@@ -329,7 +331,7 @@
        y="140.58598"
        id="rect96" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="208.93938"
        y="144.83647"
@@ -344,11 +346,13 @@
        y="140.58598"
        id="rect100" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        font-size="12"
        x="225.94141"
        y="144.83647"
-       id="text102">RX</text>
+       id="text102"><tspan
+         sodipodi:role="line"
+         id="tspan712">TX</tspan></text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.35420889"
        height="4.2505069"
@@ -359,7 +363,7 @@
        y="140.58598"
        id="rect104" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="242.94344"
        y="144.83647"
@@ -374,7 +378,7 @@
        y="145.89914"
        id="rect112" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="150.14961"
@@ -389,7 +393,7 @@
        y="145.89914"
        id="rect116" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="150.14961"
@@ -404,7 +408,7 @@
        y="145.89914"
        id="rect120" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="191.93735"
        y="150.14961"
@@ -419,7 +423,7 @@
        y="145.89914"
        id="rect124" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="208.93938"
        y="150.14961"
@@ -434,15 +438,13 @@
        y="145.89914"
        id="rect128" />
     <text
-       style="font-size:4.25061937px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25062px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.354209;font-variant-east-asian:normal"
        font-size="12"
        x="225.94141"
        y="150.14961"
-       id="text130">
-      <tspan
+       id="text130"><tspan
          sodipodi:role="line"
-         id="tspan8479">TX</tspan>
-    </text>
+         id="tspan714">RX</tspan></text>
     <rect
        style="opacity:0.2;fill:#800080;stroke:#800080;stroke-width:0.35420889"
        height="4.2505069"
@@ -453,18 +455,16 @@
        y="145.89914"
        id="rect132" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.8963697px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.35420889"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.89637px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="242.94344"
        y="150.14961"
-       id="text134">
-      <tspan
+       id="text134"><tspan
          sodipodi:role="line"
          id="tspan8181"
          x="242.94344"
          y="150.14961"
-         style="stroke-width:0.35420889">2:1/4:0</tspan>
-    </text>
+         style="stroke-width:0.354209">2:1/4:0</tspan></text>
     <rect
        style="opacity:0.3;fill:#ffffff;stroke:#000000;stroke-width:0.35420889"
        height="4.2505069"
@@ -475,7 +475,7 @@
        y="151.21227"
        id="rect140" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="155.46277"
@@ -490,7 +490,7 @@
        y="151.21227"
        id="rect144" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="155.46277"
@@ -505,7 +505,7 @@
        y="151.21227"
        id="rect148" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="191.93735"
        y="155.46277"
@@ -520,7 +520,7 @@
        y="151.21227"
        id="rect152" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="208.93938"
        y="155.46277"
@@ -535,7 +535,7 @@
        y="151.21227"
        id="rect156" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="225.94141"
        y="155.46277"
@@ -550,7 +550,7 @@
        y="151.21227"
        id="rect160" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="242.94344"
        y="155.46277"
@@ -565,7 +565,7 @@
        y="156.52541"
        id="rect168" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="160.77589"
@@ -580,7 +580,7 @@
        y="156.52541"
        id="rect172" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="160.77589"
@@ -595,7 +595,7 @@
        y="156.52541"
        id="rect176" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="191.93735"
        y="160.77589"
@@ -610,7 +610,7 @@
        y="156.52541"
        id="rect180" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="208.93938"
        y="160.77589"
@@ -625,7 +625,7 @@
        y="156.52541"
        id="rect184" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="225.94141"
        y="160.77589"
@@ -640,7 +640,7 @@
        y="156.52541"
        id="rect188" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="242.94344"
        y="160.77589"
@@ -655,7 +655,7 @@
        y="161.83852"
        id="rect196" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="166.08904"
@@ -670,7 +670,7 @@
        y="161.83852"
        id="rect200" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="166.08904"
@@ -685,7 +685,7 @@
        y="161.83852"
        id="rect204" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="191.93735"
        y="166.08904"
@@ -700,7 +700,7 @@
        y="161.83852"
        id="rect208" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="208.93938"
        y="166.08904"
@@ -715,7 +715,7 @@
        y="161.83852"
        id="rect212" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="225.94141"
        y="166.08904"
@@ -730,7 +730,7 @@
        y="161.83852"
        id="rect216" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="242.94344"
        y="166.08904"
@@ -745,7 +745,7 @@
        y="167.15164"
        id="rect224" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="171.40215"
@@ -760,7 +760,7 @@
        y="167.15164"
        id="rect228" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="171.40215"
@@ -775,7 +775,7 @@
        y="167.15164"
        id="rect232" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="191.93735"
        y="171.40215"
@@ -790,7 +790,7 @@
        y="167.15164"
        id="rect236" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="208.93938"
        y="171.40215"
@@ -805,7 +805,7 @@
        y="167.15164"
        id="rect240" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="225.94141"
        y="171.40215"
@@ -820,7 +820,7 @@
        y="167.15164"
        id="rect244" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="242.94344"
        y="171.40215"
@@ -835,7 +835,7 @@
        y="172.4648"
        id="rect252" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="176.71527"
@@ -850,7 +850,7 @@
        y="172.4648"
        id="rect256" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="176.71527"
@@ -865,7 +865,7 @@
        y="172.4648"
        id="rect260" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="191.93735"
        y="176.71527"
@@ -880,7 +880,7 @@
        y="172.4648"
        id="rect264" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="208.93938"
        y="176.71527"
@@ -895,7 +895,7 @@
        y="172.4648"
        id="rect268" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="225.94141"
        y="176.71527"
@@ -910,7 +910,7 @@
        y="172.4648"
        id="rect272" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="242.94344"
        y="176.71527"
@@ -925,7 +925,7 @@
        y="172.4648"
        id="rect276" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="259.94547"
        y="176.71527"
@@ -940,7 +940,7 @@
        y="177.77794"
        id="rect284" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="182.02843"
@@ -955,7 +955,7 @@
        y="177.77794"
        id="rect288" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="182.02843"
@@ -970,7 +970,7 @@
        y="177.77794"
        id="rect292" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="191.93735"
        y="182.02843"
@@ -985,7 +985,7 @@
        y="177.77794"
        id="rect296" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="208.93938"
        y="182.02843"
@@ -1000,7 +1000,7 @@
        y="177.77794"
        id="rect300" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="225.94141"
        y="182.02843"
@@ -1015,7 +1015,7 @@
        y="177.77794"
        id="rect304" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="242.94344"
        y="182.02843"
@@ -1030,7 +1030,7 @@
        y="177.77794"
        id="rect308" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="259.94547"
        y="182.02843"
@@ -1045,7 +1045,7 @@
        y="183.09108"
        id="rect312" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="187.34157"
@@ -1060,7 +1060,7 @@
        y="183.09108"
        id="rect316" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="187.34157"
@@ -1075,7 +1075,7 @@
        y="183.09108"
        id="rect320" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="191.93735"
        y="187.34157"
@@ -1090,7 +1090,7 @@
        y="183.09108"
        id="rect324" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="208.93938"
        y="187.34157"
@@ -1105,7 +1105,7 @@
        y="183.09108"
        id="rect328" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="225.94141"
        y="187.34157"
@@ -1120,7 +1120,7 @@
        y="183.09108"
        id="rect332" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="242.94344"
        y="187.34157"
@@ -1135,7 +1135,7 @@
        y="188.40421"
        id="rect340" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="192.65472"
@@ -1150,7 +1150,7 @@
        y="188.40421"
        id="rect344" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="192.65472"
@@ -1165,7 +1165,7 @@
        y="188.40421"
        id="rect348" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="191.93735"
        y="192.65472"
@@ -1180,7 +1180,7 @@
        y="188.40421"
        id="rect352" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="208.93938"
        y="192.65472"
@@ -1195,7 +1195,7 @@
        y="188.40421"
        id="rect356" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="225.94141"
        y="192.65472"
@@ -1210,7 +1210,7 @@
        y="188.40421"
        id="rect360" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="242.94344"
        y="192.65472"
@@ -1225,7 +1225,7 @@
        y="193.71733"
        id="rect368" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="197.96783"
@@ -1240,7 +1240,7 @@
        y="193.71733"
        id="rect372" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="197.96783"
@@ -1255,7 +1255,7 @@
        y="193.71733"
        id="rect376" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="191.93735"
        y="197.96783"
@@ -1270,7 +1270,7 @@
        y="193.71733"
        id="rect380" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="208.93938"
        y="197.96783"
@@ -1285,7 +1285,7 @@
        y="193.71733"
        id="rect384" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="225.94141"
        y="197.96783"
@@ -1300,7 +1300,7 @@
        y="193.71733"
        id="rect388" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="242.94344"
        y="197.96783"
@@ -1315,7 +1315,7 @@
        y="199.03047"
        id="rect396" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="203.28098"
@@ -1330,7 +1330,7 @@
        y="199.03047"
        id="rect400" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#ffffff;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#ffffff;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="203.28098"
@@ -1345,7 +1345,7 @@
        y="204.34361"
        id="rect408" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="208.59412"
@@ -1360,7 +1360,7 @@
        y="204.34361"
        id="rect412" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="208.59412"
@@ -1375,15 +1375,13 @@
        y="209.65674"
        id="rect420" />
     <text
-       style="font-size:4.25061937px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25062px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="213.90724"
-       id="text422">
-      <tspan
+       id="text422"><tspan
          sodipodi:role="line"
-         id="tspan8304">3V3</tspan>
-    </text>
+         id="tspan8304">3V3</tspan></text>
     <rect
        style="opacity:0.8;fill:#ff0000;stroke:#ff0000;stroke-width:0.35420889"
        height="4.2505069"
@@ -1394,7 +1392,7 @@
        y="209.65674"
        id="rect424" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="213.90724"
@@ -1409,7 +1407,7 @@
        y="214.96986"
        id="rect432" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="157.93332"
        y="219.22038"
@@ -1424,7 +1422,7 @@
        y="214.96986"
        id="rect436" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="174.93533"
        y="219.22038"
@@ -1439,7 +1437,7 @@
        y="135.33994"
        id="rect452" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="90.463844"
        y="139.59044"
@@ -1454,7 +1452,7 @@
        y="135.33994"
        id="rect456" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="73.461807"
        y="139.59044"
@@ -1469,7 +1467,7 @@
        y="135.33994"
        id="rect460" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="56.459782"
        y="139.59044"
@@ -1484,7 +1482,7 @@
        y="135.33994"
        id="rect464" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="39.457756"
        y="139.59044"
@@ -1499,7 +1497,7 @@
        y="135.33994"
        id="rect468" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="22.455723"
        y="139.59044"
@@ -1514,7 +1512,7 @@
        y="135.33994"
        id="rect472" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="5.4536967"
        y="139.59044"
@@ -1529,7 +1527,7 @@
        y="140.65308"
        id="rect480" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="90.463844"
        y="144.90356"
@@ -1544,7 +1542,7 @@
        y="140.65308"
        id="rect484" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="73.461807"
        y="144.90356"
@@ -1559,7 +1557,7 @@
        y="140.65308"
        id="rect488" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="56.459782"
        y="144.90356"
@@ -1574,7 +1572,7 @@
        y="140.65308"
        id="rect492" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="39.457756"
        y="144.90356"
@@ -1589,7 +1587,7 @@
        y="140.65308"
        id="rect496" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="22.455723"
        y="144.90356"
@@ -1604,7 +1602,7 @@
        y="140.65308"
        id="rect500" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="5.4536967"
        y="144.90356"
@@ -1619,7 +1617,7 @@
        y="145.96623"
        id="rect508" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="90.463844"
        y="150.21671"
@@ -1634,7 +1632,7 @@
        y="145.96623"
        id="rect512" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="73.461807"
        y="150.21671"
@@ -1649,7 +1647,7 @@
        y="145.96623"
        id="rect516" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="56.459782"
        y="150.21671"
@@ -1664,7 +1662,7 @@
        y="145.96623"
        id="rect520" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="39.457756"
        y="150.21671"
@@ -1679,18 +1677,16 @@
        y="145.96623"
        id="rect524" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.8963697px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.35420889"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.89637px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="22.455723"
        y="150.21671"
-       id="text526">
-      <tspan
+       id="text526"><tspan
          sodipodi:role="line"
          id="tspan8175"
          x="22.455723"
          y="150.21671"
-         style="stroke-width:0.35420889">2:3/4:3</tspan>
-    </text>
+         style="stroke-width:0.354209">2:3/4:3</tspan></text>
     <rect
        style="opacity:0.3;fill:#ffffff;stroke:#000000;stroke-width:0.35420889"
        height="4.2505069"
@@ -1701,7 +1697,7 @@
        y="151.27936"
        id="rect532" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="90.463844"
        y="155.52983"
@@ -1716,7 +1712,7 @@
        y="151.27936"
        id="rect536" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="73.461807"
        y="155.52983"
@@ -1731,7 +1727,7 @@
        y="151.27936"
        id="rect540" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="56.459782"
        y="155.52983"
@@ -1746,7 +1742,7 @@
        y="151.27936"
        id="rect544" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="39.457756"
        y="155.52983"
@@ -1761,18 +1757,16 @@
        y="151.27936"
        id="rect548" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.8963697px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.35420889"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.89637px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="22.455723"
        y="155.52983"
-       id="text550">
-      <tspan
+       id="text550"><tspan
          sodipodi:role="line"
          id="tspan8177"
          x="22.455723"
          y="155.52983"
-         style="stroke-width:0.35420889">5:2/3:2</tspan>
-    </text>
+         style="stroke-width:0.354209">5:2/3:2</tspan></text>
     <rect
        style="opacity:0.3;fill:#ffffff;stroke:#000000;stroke-width:0.35420889"
        height="4.2505069"
@@ -1783,7 +1777,7 @@
        y="156.5925"
        id="rect556" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="90.463844"
        y="160.84299"
@@ -1798,7 +1792,7 @@
        y="156.5925"
        id="rect560" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="73.461807"
        y="160.84299"
@@ -1813,7 +1807,7 @@
        y="156.5925"
        id="rect564" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="56.459782"
        y="160.84299"
@@ -1828,7 +1822,7 @@
        y="156.5925"
        id="rect568" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="39.457756"
        y="160.84299"
@@ -1843,7 +1837,7 @@
        y="156.5925"
        id="rect572" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="22.455723"
        y="160.84299"
@@ -1858,7 +1852,7 @@
        y="156.5925"
        id="rect576" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="5.4536967"
        y="160.84299"
@@ -1873,7 +1867,7 @@
        y="161.90562"
        id="rect584" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="90.463844"
        y="166.15613"
@@ -1888,7 +1882,7 @@
        y="161.90562"
        id="rect588" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="73.461807"
        y="166.15613"
@@ -1903,7 +1897,7 @@
        y="161.90562"
        id="rect592" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="56.459782"
        y="166.15613"
@@ -1918,7 +1912,7 @@
        y="161.90562"
        id="rect596" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="39.457756"
        y="166.15613"
@@ -1933,18 +1927,16 @@
        y="161.90562"
        id="rect600" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.8963697px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.35420889"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.89637px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="22.455723"
        y="166.15613"
-       id="text602">
-      <tspan
+       id="text602"><tspan
          sodipodi:role="line"
          id="tspan8179"
          x="22.455723"
          y="166.15613"
-         style="stroke-width:0.35420889">1:2/3:2</tspan>
-    </text>
+         style="stroke-width:0.354209">1:2/3:2</tspan></text>
     <rect
        style="opacity:0.3;fill:#ffffff;stroke:#000000;stroke-width:0.35420889"
        height="4.2505069"
@@ -1955,7 +1947,7 @@
        y="167.21875"
        id="rect608" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="90.463844"
        y="171.46925"
@@ -1970,7 +1962,7 @@
        y="167.21875"
        id="rect612" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="73.461807"
        y="171.46925"
@@ -1985,7 +1977,7 @@
        y="167.21875"
        id="rect616" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="56.459782"
        y="171.46925"
@@ -2000,7 +1992,7 @@
        y="167.21875"
        id="rect620" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="39.457756"
        y="171.46925"
@@ -2015,7 +2007,7 @@
        y="167.21875"
        id="rect624" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="22.455723"
        y="171.46925"
@@ -2030,7 +2022,7 @@
        y="172.53189"
        id="rect632" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="90.463844"
        y="176.78238"
@@ -2045,7 +2037,7 @@
        y="172.53189"
        id="rect636" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="73.461807"
        y="176.78238"
@@ -2060,7 +2052,7 @@
        y="172.53189"
        id="rect640" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="56.459782"
        y="176.78238"
@@ -2075,7 +2067,7 @@
        y="172.53189"
        id="rect644" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="39.457756"
        y="176.78238"
@@ -2090,7 +2082,7 @@
        y="172.53189"
        id="rect648" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="22.455723"
        y="176.78238"
@@ -2105,7 +2097,7 @@
        y="177.84502"
        id="rect656" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="90.463844"
        y="182.0955"
@@ -2120,7 +2112,7 @@
        y="177.84502"
        id="rect660" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="73.461807"
        y="182.0955"
@@ -2135,7 +2127,7 @@
        y="177.84502"
        id="rect664" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="56.459782"
        y="182.0955"
@@ -2150,7 +2142,7 @@
        y="177.84502"
        id="rect668" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="39.457756"
        y="182.0955"
@@ -2165,7 +2157,7 @@
        y="177.84502"
        id="rect672" />
     <text
-       style="font-size:3.89629793px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:3.8963px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="11"
        x="22.455723"
        y="182.0955"
@@ -2180,7 +2172,7 @@
        y="183.15816"
        id="rect680" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="90.463844"
        y="187.40868"
@@ -2195,7 +2187,7 @@
        y="183.15816"
        id="rect684" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="73.461807"
        y="187.40868"
@@ -2210,7 +2202,7 @@
        y="188.47128"
        id="rect692" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="90.463844"
        y="192.72182"
@@ -2225,7 +2217,7 @@
        y="188.47128"
        id="rect696" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="73.461807"
        y="192.72182"
@@ -2240,7 +2232,7 @@
        y="193.78441"
        id="rect704" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="90.463844"
        y="198.03493"
@@ -2255,7 +2247,7 @@
        y="193.78441"
        id="rect708" />
     <text
-       style="font-size:4.25050688px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889"
+       style="font-size:4.25051px;font-family:Montserrat;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="73.461807"
        y="198.03493"
@@ -2270,7 +2262,7 @@
        y="243.55498"
        id="rect812" />
     <text
-       style="font-size:3.17499995px;font-family:Montserrat;fill:#000000;stroke-width:0.26458332"
+       style="font-size:3.175px;font-family:Montserrat;fill:#000000;stroke-width:0.264583"
        font-size="12"
        x="53.196869"
        y="246.73"
@@ -2285,7 +2277,7 @@
        y="243.55498"
        id="rect816" />
     <text
-       style="font-size:3.17499995px;font-family:Montserrat;fill:#000000;stroke-width:0.26458332"
+       style="font-size:3.175px;font-family:Montserrat;fill:#000000;stroke-width:0.264583"
        font-size="12"
        x="40.496872"
        y="246.73"
@@ -2300,7 +2292,7 @@
        y="243.55498"
        id="rect820" />
     <text
-       style="font-size:3.17499995px;font-family:Montserrat;fill:#000000;stroke-width:0.26458332"
+       style="font-size:3.175px;font-family:Montserrat;fill:#000000;stroke-width:0.264583"
        font-size="12"
        x="27.796862"
        y="246.73"
@@ -2315,7 +2307,7 @@
        y="243.55498"
        id="rect824" />
     <text
-       style="font-size:3.17499995px;font-family:Montserrat;fill:#000000;stroke-width:0.26458332"
+       style="font-size:3.175px;font-family:Montserrat;fill:#000000;stroke-width:0.264583"
        font-size="12"
        x="15.096865"
        y="246.73"
@@ -2330,7 +2322,7 @@
        y="243.55498"
        id="rect828" />
     <text
-       style="font-size:2.9104166px;font-family:Montserrat;fill:#000000;stroke-width:0.26458332"
+       style="font-size:2.91042px;font-family:Montserrat;fill:#000000;stroke-width:0.264583"
        font-size="11"
        x="2.3968713"
        y="246.73"
@@ -2345,7 +2337,7 @@
        y="238.6927"
        id="rect836" />
     <text
-       style="font-size:3.17499995px;font-family:Montserrat;fill:#000000;stroke-width:0.26458332"
+       style="font-size:3.175px;font-family:Montserrat;fill:#000000;stroke-width:0.264583"
        font-size="12"
        x="53.196873"
        y="241.86772"
@@ -2360,7 +2352,7 @@
        y="238.6927"
        id="rect840" />
     <text
-       style="font-size:3.17499995px;font-family:Montserrat;fill:#000000;stroke-width:0.26458332"
+       style="font-size:3.175px;font-family:Montserrat;fill:#000000;stroke-width:0.264583"
        font-size="12"
        x="40.496876"
        y="241.86772"
@@ -2375,7 +2367,7 @@
        y="238.6927"
        id="rect844" />
     <text
-       style="font-size:3.17499995px;font-family:Montserrat;fill:#000000;stroke-width:0.26458332"
+       style="font-size:3.175px;font-family:Montserrat;fill:#000000;stroke-width:0.264583"
        font-size="12"
        x="27.796869"
        y="241.86772"
@@ -2390,17 +2382,15 @@
        y="238.6927"
        id="rect848" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.9104166px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.264583"
        font-size="11"
        x="15.096875"
        y="241.86772"
-       id="text850">
-      <tspan
+       id="text850"><tspan
          sodipodi:role="line"
          id="tspan8602"
          x="15.096875"
-         y="241.86772">1:2</tspan>
-    </text>
+         y="241.86772">1:2</tspan></text>
     <rect
        style="opacity:0.1;fill:#0000ff;stroke:#0000ff;stroke-width:0.26458332"
        height="3.175"
@@ -2411,7 +2401,7 @@
        y="238.6927"
        id="rect852" />
     <text
-       style="font-size:3.17499995px;font-family:Montserrat;fill:#000000;stroke-width:0.26458332"
+       style="font-size:3.175px;font-family:Montserrat;fill:#000000;stroke-width:0.264583"
        font-size="12"
        x="2.3968713"
        y="241.86772"
@@ -2426,7 +2416,7 @@
        y="234.41768"
        id="rect856" />
     <text
-       style="font-size:3.17499995px;font-family:Montserrat;fill:#000000;stroke-width:0.26458332"
+       style="font-size:3.175px;font-family:Montserrat;fill:#000000;stroke-width:0.264583"
        font-size="12"
        x="53.196873"
        y="237.5927"
@@ -2441,7 +2431,7 @@
        y="234.41768"
        id="rect860" />
     <text
-       style="font-size:3.17499995px;font-family:Montserrat;fill:#000000;stroke-width:0.26458332"
+       style="font-size:3.175px;font-family:Montserrat;fill:#000000;stroke-width:0.264583"
        font-size="12"
        x="40.496876"
        y="237.5927"
@@ -2456,7 +2446,7 @@
        y="234.41768"
        id="rect864" />
     <text
-       style="font-size:3.17499995px;font-family:Montserrat;fill:#000000;stroke-width:0.26458332"
+       style="font-size:3.175px;font-family:Montserrat;fill:#000000;stroke-width:0.264583"
        font-size="12"
        x="27.796869"
        y="237.5927"
@@ -2471,17 +2461,15 @@
        y="234.41768"
        id="rect868" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.9104166px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91042px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.264583"
        font-size="11"
        x="15.096875"
        y="237.5927"
-       id="text870">
-      <tspan
+       id="text870"><tspan
          sodipodi:role="line"
          id="tspan8600"
          x="15.096875"
-         y="237.5927">1:3</tspan>
-    </text>
+         y="237.5927">1:3</tspan></text>
     <rect
        style="opacity:0.1;fill:#0000ff;stroke:#0000ff;stroke-width:0.26458332"
        height="3.175"
@@ -2492,14 +2480,14 @@
        y="234.41768"
        id="rect872" />
     <text
-       style="font-size:3.17499995px;font-family:Montserrat;fill:#000000;stroke-width:0.26458332"
+       style="font-size:3.175px;font-family:Montserrat;fill:#000000;stroke-width:0.264583"
        font-size="12"
        x="2.3968713"
        y="237.5927"
        id="text874">SWDIO</text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="75.62793"
        y="257.87"
        id="text8113"><tspan
@@ -2509,7 +2497,7 @@
          y="257.87">SAMD51J20A</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="2.4460287"
        y="258.92007"
        id="text8117"><tspan
@@ -2517,10 +2505,10 @@
          id="tspan8115"
          x="2.4460287"
          y="258.92007"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Power</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Power</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="148.44603"
        y="258.92007"
        id="text8121"><tspan
@@ -2530,7 +2518,7 @@
          y="258.92007">Hardware</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.42268515px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25670037"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.42269px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2567"
        x="70.177147"
        y="222.39482"
        id="text8133"><tspan
@@ -2548,7 +2536,7 @@
          y="230.95154">Connector</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25670037"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2567"
        x="70.182587"
        y="207.85648"
        id="text8139"><tspan
@@ -2562,7 +2550,7 @@
          y="212.2662">Single Cell Lipo</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="5.18259"
        y="264.95139"
        id="text8151"><tspan
@@ -2586,7 +2574,7 @@
          id="tspan8564" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="78"
        y="264.95139"
        id="text8161"><tspan
@@ -2620,7 +2608,7 @@
          y="291.40973" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888889px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="7.2558594"
        y="93.765083"
        id="text8185"><tspan
@@ -2638,7 +2626,7 @@
        y="88.161835"
        id="rect4" />
     <text
-       style="font-size:4.34043789px;font-family:Montserrat;fill:#000000;stroke-width:0.36170313"
+       style="font-size:4.34044px;font-family:Montserrat;fill:#000000;stroke-width:0.361703"
        font-size="12"
        x="237.1826"
        y="91.545303"
@@ -2653,7 +2641,7 @@
        y="94.997169"
        id="rect8" />
     <text
-       style="font-size:4.34043789px;font-family:Montserrat;fill:#000000;stroke-width:0.36170313"
+       style="font-size:4.34044px;font-family:Montserrat;fill:#000000;stroke-width:0.361703"
        font-size="12"
        x="237.1826"
        y="99.337639"
@@ -2668,7 +2656,7 @@
        y="101.8325"
        id="rect12" />
     <text
-       style="font-size:4.34043789px;font-family:Montserrat;fill:#ffffff;stroke-width:0.36170313"
+       style="font-size:4.34044px;font-family:Montserrat;fill:#ffffff;stroke-width:0.361703"
        font-size="12"
        x="237.1826"
        y="106.17293"
@@ -2683,7 +2671,7 @@
        y="108.66784"
        id="rect16" />
     <text
-       style="font-size:4.34043789px;font-family:Montserrat;fill:#000000;stroke-width:0.36170313"
+       style="font-size:4.34044px;font-family:Montserrat;fill:#000000;stroke-width:0.361703"
        font-size="12"
        x="237.1826"
        y="113.00826"
@@ -2698,18 +2686,16 @@
        y="115.50317"
        id="rect20" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85816693px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.36170313"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85817px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.361703"
        font-size="12"
        x="237.1826"
        y="119.8436"
-       id="text22">
-      <tspan
+       id="text22"><tspan
          sodipodi:role="line"
          id="tspan8189"
          x="237.1826"
          y="119.8436"
-         style="stroke-width:0.36170313">Arduino</tspan>
-    </text>
+         style="stroke-width:0.361703">Arduino</tspan></text>
     <rect
        style="opacity:0.4;fill:#0000ff;stroke:#0000ff;stroke-width:0.36170313"
        height="4.3404379"
@@ -2720,7 +2706,7 @@
        y="122.3385"
        id="rect24" />
     <text
-       style="font-size:4.34043789px;font-family:Montserrat;fill:#000000;stroke-width:0.36170313"
+       style="font-size:4.34044px;font-family:Montserrat;fill:#000000;stroke-width:0.361703"
        font-size="12"
        x="237.1826"
        y="126.67893"
@@ -2735,7 +2721,7 @@
        y="88.161835"
        id="rect28" />
     <text
-       style="font-size:4.34043789px;font-family:Montserrat;fill:#000000;stroke-width:0.36170313"
+       style="font-size:4.34044px;font-family:Montserrat;fill:#000000;stroke-width:0.361703"
        font-size="12"
        x="257.6886"
        y="92.502266"
@@ -2750,18 +2736,16 @@
        y="94.275177"
        id="rect32" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85816693px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.36170313"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85817px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.361703"
        font-size="12"
        x="257.6886"
        y="98.615608"
-       id="text34">
-      <tspan
+       id="text34"><tspan
          sodipodi:role="line"
          id="tspan8187"
          x="257.6886"
          y="98.615608"
-         style="stroke-width:0.36170313">Interupt</tspan>
-    </text>
+         style="stroke-width:0.361703">Interupt</tspan></text>
     <rect
        style="opacity:0.3;fill:#808080;stroke:#808080;stroke-width:0.36170313"
        height="4.3404379"
@@ -2772,7 +2756,7 @@
        y="101.8325"
        id="rect36" />
     <text
-       style="font-size:4.34043789px;font-family:Montserrat;fill:#000000;stroke-width:0.36170313"
+       style="font-size:4.34044px;font-family:Montserrat;fill:#000000;stroke-width:0.361703"
        font-size="12"
        x="257.6886"
        y="106.17293"
@@ -2787,7 +2771,7 @@
        y="108.66784"
        id="rect40" />
     <text
-       style="font-size:3.97873473px;font-family:Montserrat;fill:#000000;stroke-width:0.36170313"
+       style="font-size:3.97873px;font-family:Montserrat;fill:#000000;stroke-width:0.361703"
        font-size="11"
        x="257.6886"
        y="113.00826"
@@ -2802,7 +2786,7 @@
        y="115.50317"
        id="rect44" />
     <text
-       style="font-size:4.34043789px;font-family:Montserrat;fill:#000000;stroke-width:0.36170313"
+       style="font-size:4.34044px;font-family:Montserrat;fill:#000000;stroke-width:0.361703"
        font-size="12"
        x="257.6886"
        y="119.84357"
@@ -2817,7 +2801,7 @@
        y="122.3385"
        id="rect48" />
     <text
-       style="font-size:4.34043789px;font-family:Montserrat;fill:#000000;stroke-width:0.36170313"
+       style="font-size:4.34044px;font-family:Montserrat;fill:#000000;stroke-width:0.361703"
        font-size="12"
        x="257.6886"
        y="126.67893"
@@ -2832,18 +2816,16 @@
        y="177.84502"
        id="rect80-4" />
     <text
-       style="font-size:4.25061937px;font-family:Montserrat;fill:#000000;stroke-width:0.35420889;-inkscape-font-specification:'Montserrat, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25062px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.354209"
        font-size="12"
        x="5.4533219"
        y="182.09555"
-       id="text82-8">
-      <tspan
+       id="text82-8"><tspan
          sodipodi:role="line"
-         id="tspan8302">LED</tspan>
-    </text>
+         id="tspan8302">LED</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="152"
        y="264.95139"
        id="text8308"><tspan
@@ -2862,14 +2844,14 @@
          sodipodi:role="line"
          id="tspan1248"> </tspan><tspan
          sodipodi:role="line"
-         id="tspan1250"></tspan><tspan
+         id="tspan1250" /><tspan
          sodipodi:role="line"
-         id="tspan1252"></tspan><tspan
+         id="tspan1252" /><tspan
          sodipodi:role="line"
-         id="tspan1254"></tspan></text>
+         id="tspan1254" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="2.3077145"
        y="191.91013"
        id="text8320"><tspan
@@ -2884,7 +2866,7 @@
        y="193.15274" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="74.400673"
        y="202.93007"
        id="text8343"><tspan
@@ -2892,10 +2874,10 @@
          id="tspan8341"
          x="74.400673"
          y="202.93007"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Connectors</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Connectors</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.42268515px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25670037"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.42269px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2567"
        x="69.689148"
        y="236.73134"
        id="text8147"><tspan
@@ -2922,7 +2904,7 @@
        ry="0.18190104" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="159.44603"
        y="226.92007"
        id="text8608"><tspan
@@ -2930,10 +2912,10 @@
          id="tspan8606"
          x="159.44603"
          y="226.92007"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Reset Button</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Reset Button</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="159.65376"
        y="231.26619"
        id="text8612"><tspan
@@ -2941,7 +2923,7 @@
          id="tspan8610"
          x="159.65376"
          y="231.26619"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Must double tap to program</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Must double tap to program</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 159.00559,228.64246 138.83799,221 132.89385,178.5419"
@@ -2965,7 +2947,7 @@
        width="19.521013" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="7.5363092"
        y="208.47487"
        id="text8685"><tspan
@@ -2973,7 +2955,7 @@
          id="tspan8683"
          x="7.5363092"
          y="208.47487"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Cut to disable</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">Cut to disable</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 25.899441,137.71508 -5.094972,1.06146 -7.642458,-0.2123"
