@@ -42,17 +42,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="641.54109"
-     inkscape:cy="216.95249"
+     inkscape:cx="885.05321"
+     inkscape:cy="538.95531"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
-     inkscape:window-width="3000"
-     inkscape:window-height="1920"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1368"
+     inkscape:window-height="912"
+     inkscape:window-x="34"
+     inkscape:window-y="397"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:pagecheckerboard="true" />
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -255,7 +255,7 @@
          sodipodi:role="line"
          id="tspan1091"
          x="148.60187"
-         y="204.67332">   MISO:D3, SS:D5)</tspan></text>
+         y="204.67332">   MISO:D3, CS:D5)</tspan></text>
     <rect
        style="opacity:0.25;fill:#3367d4;fill-opacity:1;stroke:#3367d4;stroke-width:0.37990409;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1027"
@@ -328,7 +328,7 @@
        y="83.664841"
        id="text58"
        style="font-size:4.07711601px;font-family:Montserrat;fill:#000000;stroke-width:0.40771165"
-       transform="scale(1.0483269,0.95390093)">TX</text>
+       transform="scale(1.0483269,0.95390093)">RX</text>
     <rect
        height="4.6669984"
        rx="0.42741498"
@@ -392,7 +392,7 @@
        y="89.78051"
        id="text78"
        style="font-size:4.07711601px;font-family:Montserrat;fill:#000000;stroke-width:0.40771165"
-       transform="scale(1.0483269,0.95390093)">RX</text>
+       transform="scale(1.0483269,0.95390093)">TX</text>
     <rect
        height="4.6669984"
        rx="0.42741498"
@@ -952,7 +952,7 @@
        y="101.93313"
        id="text242"
        style="font-size:4.74531174px;font-family:Montserrat;fill:#000000;stroke-width:0.39544266"
-       transform="scale(1.0496305,0.95271622)">PA10</text>
+       transform="scale(1.0496305,0.95271622)">PA00</text>
     <rect
        height="4.520936"
        rx="0.41506866"
@@ -961,14 +961,14 @@
        x="24.742098"
        y="92.592422"
        id="rect244"
-       style="opacity:0.3;fill:#800080;stroke:#800080;stroke-width:0.39544266" />
+       style="opacity:0.3;fill:none;stroke:none;stroke-width:0.39544266" />
     <text
        font-size="10"
        x="23.96764"
        y="101.93313"
        id="text246"
-       style="font-size:3.95442653px;font-family:Montserrat;fill:#000000;stroke-width:0.39544266"
-       transform="scale(1.0496305,0.95271622)">A4</text>
+       style="font-size:3.95442653px;font-family:Montserrat;fill:none;stroke-width:0.39544266"
+       transform="scale(1.0496305,0.95271622)">???</text>
     <rect
        height="4.520936"
        rx="0.41506866"
@@ -993,14 +993,14 @@
        x="0.80623716"
        y="98.482582"
        id="rect256"
-       style="opacity:0.8;fill:#ffff00;stroke:#ffff00;stroke-width:0.39544266" />
+       style="opacity:0.8;fill:none;stroke:none;stroke-width:0.39544266" />
     <text
        font-size="11"
        x="1.1635548"
        y="108.1156"
        id="text258"
-       style="font-size:4.34986925px;font-family:Montserrat;fill:#000000;stroke-width:0.39544266"
-       transform="scale(1.0496305,0.95271622)">AREFB</text>
+       style="font-size:4.34986925px;font-family:Montserrat;fill:none;stroke:none;stroke-width:0.39544266"
+       transform="scale(1.0496305,0.95271622)">???</text>
     <rect
        height="4.520936"
        rx="0.41506866"
@@ -1032,7 +1032,7 @@
        y="107.86087"
        id="text266"
        style="font-size:4.74531174px;font-family:Montserrat;fill:#000000;stroke-width:0.39544266"
-       transform="scale(1.0496305,0.95271622)">PA04</text>
+       transform="scale(1.0496305,0.95271622)">PA01</text>
     <rect
        height="4.520936"
        rx="0.41506866"
@@ -1041,14 +1041,14 @@
        x="24.953083"
        y="98.338104"
        id="rect268"
-       style="opacity:0.3;fill:#800080;stroke:#800080;stroke-width:0.39544266" />
+       style="opacity:0.3;fill:none;stroke:none;stroke-width:0.39544266" />
     <text
        font-size="10"
        x="24.168648"
        y="107.96394"
        id="text270"
-       style="font-size:3.95442653px;font-family:Montserrat;fill:#000000;stroke-width:0.39544266"
-       transform="scale(1.0496305,0.95271622)">A5</text>
+       style="font-size:3.95442653px;font-family:Montserrat;fill:none;stroke:none;stroke-width:0.39544266"
+       transform="scale(1.0496305,0.95271622)">???</text>
     <rect
        height="4.520936"
        rx="0.41506866"
@@ -1248,7 +1248,7 @@
        x="217.25114"
        y="137.92114"
        id="text294"
-       style="font-size:5.13676834px;font-family:Montserrat;fill:#000000;stroke-width:0.42806393">PA30</text>
+       style="font-size:5.13676834px;font-family:Montserrat;fill:#000000;stroke-width:0.42806393">PA31</text>
     <rect
        height="5.1367683"
        rx="0.42806393"
@@ -1293,7 +1293,7 @@
        x="217.25114"
        y="144.34207"
        id="text310"
-       style="font-size:5.13676834px;font-family:Montserrat;fill:#000000;stroke-width:0.42806393">PA31</text>
+       style="font-size:5.13676834px;font-family:Montserrat;fill:#000000;stroke-width:0.42806393">PA30</text>
     <image
        y="99.547256"
        x="120.13739"
@@ -1390,6 +1390,84 @@
        d="m 166.37528,154.1125 h -2.00452 v -24.37926"
        id="path1224"
        inkscape:connector-curvature="0" />
+    <rect
+       height="4.520936"
+       rx="0.41506869"
+       ry="0.37674463"
+       width="22.828779"
+       x="0.80622661"
+       y="104.13745"
+       id="rect256-9"
+       style="opacity:0.8;fill:#ffff00;stroke:#ffff00;stroke-width:0.39544266" />
+    <text
+       font-size="11"
+       x="1.163545"
+       y="114.05112"
+       id="text258-5"
+       style="font-size:4.34986925px;font-family:Montserrat;fill:#000000;stroke-width:0.39544266"
+       transform="scale(1.0496305,0.95271622)">AREFB</text>
+    <rect
+       height="4.520936"
+       rx="0.41506869"
+       ry="0.37674463"
+       width="22.828779"
+       x="48.83284"
+       y="103.89477"
+       id="rect264-6"
+       style="opacity:0.4;fill:#0000ff;stroke:#0000ff;stroke-width:0.39544266" />
+    <text
+       font-size="12"
+       x="46.919285"
+       y="113.79639"
+       id="text266-2"
+       style="font-size:4.74531174px;font-family:Montserrat;fill:#000000;stroke-width:0.39544266"
+       transform="scale(1.0496305,0.95271622)">PA04</text>
+    <rect
+       height="4.520936"
+       rx="0.41506869"
+       ry="0.37674463"
+       width="22.828779"
+       x="24.953072"
+       y="103.99297"
+       id="rect268-1"
+       style="opacity:0.3;fill:#800080;stroke:#800080;stroke-width:0.39544266" />
+    <text
+       font-size="10"
+       x="24.16864"
+       y="113.89946"
+       id="text270-5"
+       style="font-size:3.95442653px;font-family:Montserrat;fill:#000000;stroke-width:0.39544266"
+       transform="scale(1.0496305,0.95271622)">A5</text>
+    <rect
+       height="5.1367683"
+       rx="0.42806393"
+       ry="0.42806393"
+       width="23.54352"
+       x="120.02051"
+       y="139.19891"
+       id="rect340-7"
+       style="opacity:0.4;fill:#0000ff;stroke:#0000ff;stroke-width:0.42806393" />
+    <text
+       font-size="12"
+       x="120.44859"
+       y="144.33566"
+       id="text342-2"
+       style="font-size:5.13676834px;font-family:Montserrat;fill:#000000;stroke-width:0.42806393">PA10</text>
+    <rect
+       height="5.1367683"
+       rx="0.42806393"
+       ry="0.42806393"
+       width="23.54352"
+       x="120.02051"
+       y="145.39398"
+       id="rect340-7-6"
+       style="opacity:0.3;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:0.42806393;stroke-opacity:1" />
+    <text
+       font-size="12"
+       x="120.44859"
+       y="150.53073"
+       id="text342-2-2"
+       style="font-size:5.13676834px;font-family:Montserrat;fill:#000000;stroke-width:0.42806393">A4</text>
   </g>
   <g
      inkscape:groupmode="layer"
