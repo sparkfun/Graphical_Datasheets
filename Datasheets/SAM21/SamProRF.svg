@@ -38,13 +38,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1500"
+     inkscape:window-height="937"
      id="namedview882"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="440.17278"
-     inkscape:cy="395.59961"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="432.42594"
+     inkscape:cy="499.46595"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -2965,7 +2965,7 @@
      transform="scale(0.92807158,1.0775031)">
     <tspan
        style="font-weight:bold;stroke-width:1.39440536"
-       id="tspan5611-4">(WRL-14916)</tspan>
+       id="tspan5611-4">(WRL-15836)</tspan>
     <tspan
        style="font-weight:bold;stroke-width:1.39440536"
        id="tspan5734" />
@@ -3029,6 +3029,7 @@
        y="120.5405"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
    id="tspan1291">Note:</tspan>
+
 
  Each I/O pin is</tspan>
     <tspan
