@@ -14,7 +14,7 @@
    id="svg880"
    sodipodi:docname="SamProRF.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   inkscape:export-filename="C:\Users\bobby.chan\Documents\GitHub\sparkfun\Graphical_Datasheets\Datasheets\SAM21\SamProRF.png"
+   inkscape:export-filename="C:\Users\hocha\Documents\GitHub\Graphical_Datasheets\Datasheets\SAM21\SamProRF_v11.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -43,7 +43,7 @@
      id="namedview882"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="432.42594"
+     inkscape:cx="157.3614"
      inkscape:cy="499.46595"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -3029,6 +3029,7 @@
        y="120.5405"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
    id="tspan1291">Note:</tspan>
+
 
 
  Each I/O pin is</tspan>
