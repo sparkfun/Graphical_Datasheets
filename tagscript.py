@@ -93,23 +93,23 @@ def writeImages(i,value,row):
   global previoustext
   currentimage = "Images/" + value + ".png"
   if os.access(currentimage, os.R_OK):
-    print "Adding " + currentimage
+    print ("Adding " + currentimage)
     image = dwg.add(dwg.image(href=("../" +  currentimage), insert=(i*imagewidth,textstart)))
   else:
-    print "Could not find " + currentimage  
+    print ("Could not find " + currentimage ) 
 #end writeImages
 
 
 
 
 #open file with read access
-print "Make sure the python script is in the same folder as the file."
-myfile = raw_input("Enter file name without the .csv extension (eg. ESP8266/Thing): ")
+print ("Make sure the python script is in the same folder as the file.")
+myfile = input("Enter file name without the .csv extension (eg. ESP8266/Thing): ")
 if os.access(myfile +".csv", os.R_OK):
   file = open(myfile +".csv","r")
-  print "File opened"
+  print ("File opened")
 else:
-  print "File not found, please try again, there should be a comma deliminated csv file with the data in it.  See script for more details"
+  print ("File not found, please try again, there should be a comma deliminated csv file with the data in it.  See script for more details")
   time.sleep(1)
   os._exit(0)
 
@@ -144,7 +144,7 @@ while (rawline!=""):
   if (line[0] == "EOF"): #if we are done
     dwg.save()
     break
-  for i in range(0, len(line)): #go through total number of fields
+  for i in range(0, len(line)-1): #go through total number of fields
       if(line[i]!="" and direction=='r'):
         writeField(i,line[i],row, spot)#call function to add that field to the svg file
         spot=spot+1 #move 'cursor' one spot to the right
