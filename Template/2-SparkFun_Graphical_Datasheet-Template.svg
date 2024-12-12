@@ -160,14 +160,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="715.0644"
-     inkscape:cy="354.89535"
+     inkscape:cx="468.26723"
+     inkscape:cy="211.74269"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3610"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:pagecheckerboard="true"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1500"
      inkscape:window-height="937"
@@ -1098,6 +1098,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.28222224">- User LED: Blue (<tspan
    id="tspan5334"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:100%;font-family:ocra;-inkscape-font-specification:ocra;stroke-width:0.28222224">13</tspan>
+
 )</tspan>
         <tspan
            sodipodi:role="line"
@@ -1158,6 +1159,7 @@
            id="tspan2263">- Add notes here!!! Use <tspan
    style="font-weight:bold"
    id="tspan2431">SHIFT</tspan>
+
 +<tspan
    style="font-weight:bold"
    id="tspan2433">ENTER</tspan>
@@ -1176,6 +1178,7 @@
            id="tspan2437"><tspan
    style="fill:#000000;fill-opacity:0"
    id="tspan2475">11</tspan>
+
 - To add indented tabs, add a letters and change the stroke color</tspan>
         <tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';stroke-width:0.28222224"
@@ -1233,6 +1236,7 @@
            id="tspan2368"><tspan
    style="font-size:2.64583325px;line-height:3.38666701px;fill:#000000;fill-opacity:0"
    id="tspan2370">1</tspan>
+
  - Real-M300 CPU (Armv8-M, Cortex-M33)</tspan>
         <tspan
            style="font-size:2.64583325px;line-height:3.38666701px;stroke-width:0.28222224"
@@ -1242,6 +1246,7 @@
            id="tspan2391"><tspan
    style="font-size:2.64583325px;line-height:3.38666701px;fill:#000000;fill-opacity:0"
    id="tspan2393">1</tspan>
+
  - Real-M200 CPU (Armv8-M, Cortex-M23)</tspan>
         <tspan
            style="font-size:2.64583325px;line-height:3.38666701px;stroke-width:0.28222224"
@@ -1251,6 +1256,7 @@
            id="tspan2281"><tspan
    style="font-size:2.64583325px;line-height:3.38666701px;fill:#000000;fill-opacity:0"
    id="tspan2409">1</tspan>
+
  - up to 200MHz operating frequency</tspan>
         <tspan
            style="font-size:2.64583325px;line-height:3.38666701px;stroke-width:0.28222224"
@@ -1260,6 +1266,7 @@
            id="tspan2283"><tspan
    id="tspan5222"
    style="font-size:2.64583325px;line-height:3.38666701px;opacity:0;fill:none;stroke-width:0.28222224">1</tspan>
+
  - 512kB</tspan>
         <tspan
            id="tspan1973"
@@ -1293,6 +1300,7 @@
            sodipodi:role="line"><tspan
    id="tspan1995"
    style="font-size:2.64583325px;line-height:3.38666701px;fill:none;stroke-width:0.28222224">1</tspan>
+
  - 30x GPIO, 30x Interrupts, 7x 12-bit ADC,</tspan>
         <tspan
            style="font-size:2.64583325px;line-height:3.38666701px;stroke-width:0.28222224"
@@ -1302,12 +1310,14 @@
            id="tspan2369"><tspan
    style="font-size:2.64583325px;line-height:3.38666701px;fill:#000000;fill-opacity:0"
    id="tspan2427">1 1</tspan>
+
 11x PWM, 2x UART, 2x SPI, 1x I2C...</tspan>
       </text>
     </g>
     <g
        id="g1077"
-       inkscape:label="Power and Logic Levels">
+       inkscape:label="Power and Logic Levels"
+       style="display:inline">
       <rect
          ry="0.17412856"
          rx="0.33909878"

@@ -1,5 +1,27 @@
-Color Table
---------------
+### Creating a New Graphical Datasheet using the Template
+
+The template was created for those that are not using Python to generate the cells on a Graphical Datasheet. The template is also formatted and includes logos, legend, lines, and text for the product title, SKU and features. 
+
+1. In the **Template** folder, open the **2-SparkFun_Graphical_Datasheet-Template.svg**.
+2. Save as a new file based on the development board. You may need to place the file in a new folder.
+3. Replace the AzureWave Thing Plus AW-CU488 Development Board. If necessary, create a rectangle object over the board. Under **Object** > **Objects...** Then highlight the rectangle and product photo. Right click on the layers and select **Set Clip**.. This will "crop" the image without deleting any of the original image.
+4. Fill in the pin labels with the microcontroller's pin function. If possible, try to group the pins in the same column.
+5. Adjust the cell color based on the pin function. Select the cell(s) and change the Fill & Stroke's RGBA under **Object** > **Fill and Stroke...**
+    * Note: Check out the Color Table below!
+6. In the objects, hide any unused text and cells.
+    * Note: While you can delete each unused text and cell, you will need to duplicate the objects and re-align it with the rest of the pins if a pin functionality was missing.
+7. Update the legend.
+8. Select the group of cells and lines and align them with the development board pinout.
+    * Note: Careful when resizing and adjust the font. The text can be hard to read if it is too small.
+9. Adjust the product name, SKU, and features.
+10. If necessary, draw additional lines and label any parts of the board that you would like to highlight (i.e. buttons, connectors, ICs).
+11. Add any additional images of the board (i.e. jumpers, ICSP, SWD pins) that you would like to highlight.
+12. Move any objects (i.e. logos, features, legend) around so that the layers are not overlapping over each other.
+    * Note: If necessary, add a second page if there is not enough room on the page! Type in a corner the page number (i.e. 1/2 or 2/2).
+
+
+
+### Color Table
 
 <!-- Fritzing Graphic Standards => https://fritzing.org/fritzings-graphic-standards -->
 
