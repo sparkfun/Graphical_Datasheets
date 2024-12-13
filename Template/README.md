@@ -1,6 +1,6 @@
 ### Creating a New Graphical Datasheet using the Template
 
-The template was created for those that are not using Python to generate the cells on a Graphical Datasheet. The template is also formatted and includes logos, legend, lines, and text for the product title, SKU and features. 
+The template was created for those that are not using Python to generate the cells on a Graphical Datasheet. The template is also formatted and includes logos, legend, lines, and text for the product title, SKU and features.
 
 1. In the **Template** folder, open the **2-SparkFun_Graphical_Datasheet-Template.svg**.
 2. Save as a new file based on the development board. You may need to place the file in a new folder.
@@ -17,7 +17,19 @@ The template was created for those that are not using Python to generate the cel
 10. If necessary, draw additional lines and label any parts of the board that you would like to highlight (i.e. buttons, connectors, ICs).
 11. Add any additional images of the board (i.e. jumpers, ICSP, SWD pins) that you would like to highlight.
 12. Move any objects (i.e. logos, features, legend) around so that the layers are not overlapping over each other.
-    * Note: If necessary, add a second page if there is not enough room on the page! Type in a corner the page number (i.e. 1/2 or 2/2).
+    * Note: If necessary, add a second page if there is not enough room on the page! Type in a corner the page number as well so users are aware of an additional page (i.e. 1/2 or 2/2).
+
+Looking for inspiration or need to grab cells from a different Graphical Datasheet? Check out some of the graphical datasheets below:
+
+* [SparkFun Thing Plus (NORA-W306)](https://github.com/sparkfun/Graphical_Datasheets/blob/main/Datasheets/NORA-W306/SparkFun_Thing_Plus_NORA-W306_u-blox.pdf)
+* [SparkFun Thing Plus (AW-CU488)](https://github.com/sparkfun/Graphical_Datasheets/blob/main/Datasheets/AW-CU488/SparkFun_AzureWave_Thing_Plus-AW-CU488_v10b.pdf)
+* [SparkFun RedBoard Plus (ATmega328P)](https://github.com/sparkfun/Graphical_Datasheets/blob/main/Datasheets/Redboard/RedBoard%20Plus.png)
+* [SparkFun Thing Plus (RA6M5)](https://github.com/sparkfun/Graphical_Datasheets/blob/main/Datasheets/RA6M5/Thing%20Plus/graphical_datasheet.pdf)
+* [SparkFun Thing Plus (ESP32)](https://github.com/sparkfun/Graphical_Datasheets/blob/main/Datasheets/ESP32/ESP32ThingPlusV20.pdf)
+* [SparkX BlackBoard Artemis](https://github.com/sparkfun/Graphical_Datasheets/blob/main/Datasheets/Artemis/Artemis%20Blackboard/ArtemisBlackboard.pdf)
+
+
+Or check out [PJRC's Teensy pinout reference cards](https://www.pjrc.com/store/teensy40.html) or [Arduino's pinout diagrams](https://docs.arduino.cc/hardware/uno-rev3/).
 
 
 
